@@ -4,6 +4,8 @@ layout: home
 nav_order: 0
 ---
 
+_crosslisted as CLCV 3000a and DIGH 3700b_
+
 ![](./assets/images/Right_Index_1_from_Cincinnati_Type_Foundry_1882.png) Once the excavation is over, what happens to the information created through archaeological research? What about archaeology that does not involve digging? How do archaeologists use digital technologies on site, in the lab, or on the web? This course explores the intersection of digital technologies and computing with archaeology. We will explore the ways theory gets embedded into computation; perhaps there is even a theory of digital archaeology? We will explore how digital technologies allow us to ask questions that would otherwise be impossible to ask. We will take a look at a variety of archaeological statistics. We will also look into the ways that computational creativity in archaeology allow for novel engagements with the past, from archaeogaming to 3d printing, thus moving us into a digital public archaeology. 
 
 We will be going over to the [Billings Estate National Historic Site](https://www.ottawa.ca/en/recreation-and-parks/facilities/place-listing/billings-estate-national-historic-site) on a few occasions to practice digital data collection related to mortuary archaeology, and to practice seeing-like-an-archaeologist. We will be using digital recording devices when we're there (including 3d scanning of objects and of the environment with LIDAR). Other times, we might use the resources of the [XLab (Cultural Heritage Informatics Collaboratory)](https://carleton.ca/xlab/). 
