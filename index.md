@@ -1,35 +1,17 @@
 ---
 title: Home
 layout: home
+nav_order: 0
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+Once the excavation is over, what happens to the information created through archaeological research? What about archaeology that does not involve digging? How do archaeologists use digital technologies on site, in the lab, or on the web? This course explores the intersection of digital technologies and computing with archaeology. We will explore the ways theory gets embedded into computation; perhaps there is even a theory of digital archaeology? We will explore how digital technologies allow us to ask questions that would otherwise be impossible to ask. We will take a look at a variety of archaeological statistics. We will also look into the ways that computational creativity in archaeology allow for novel engagements with the past, from archaeogaming to 3d printing, thus moving us into a digital public archaeology. 
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+We will be going over to the [Billings Estate National Historic Site](https://www.ottawa.ca/en/recreation-and-parks/facilities/place-listing/billings-estate-national-historic-site) on a few occasions to practice digital data collection, and to practice seeing-like-an-archaeologist. We will be using digital recording devices, including LIDAR, when we're there. Other times, we might use the resources of the [XLab (Cultural Heritage Informatics Collaboratory)](https://carleton.ca/xlab/). 
 
-More specifically, the created site:
+You all have different starting points; for you to understand your process and growth is what I am after. See the [assessments](assessments) page. Also, the [schedule](schedule) page has details on what's happening when (notice also that the individual weeks are listed in the navigation bar at left under 'schedule'. Make sure to scroll!)
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+This is a 0.5 credit in-person course @ Carleton University in the Fall 2026 semester, with Professor Shawn M. Graham.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+![3 Scanner](https://carleton.ca/xlab/wp-content/uploads/Screenshot-2026-03-05-at-11.44.41%E2%80%AFAM-1.png)
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+_The THREE scanner from Matter and Form, one of the things we'll be trying out._
