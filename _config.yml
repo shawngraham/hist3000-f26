@@ -6,3 +6,14 @@ url: https://shawngraham.github.io/hist3000-f26
 
 aux_links:
   Carleton University: https://carleton.ca
+  Shawn Graham: https://shawngraham.github.io
+
+heading_anchors: true
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: NB!
+    color: blue
