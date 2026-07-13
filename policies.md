@@ -2,6 +2,7 @@
 title: Policies
 layout: default
 has_toc: false
+nav_order: 4
 ---
 
 # Official Carleton Blarg
