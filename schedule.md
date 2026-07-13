@@ -1,5 +1,5 @@
 ---
-title: Page Two
+title: Schedule
 layout: default
 ---
 
