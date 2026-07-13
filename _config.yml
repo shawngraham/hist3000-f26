@@ -1,4 +1,4 @@
-title: ☞ Digital Archaeology
+title: Introduction to Digital Archaeology
 description: Introduction to Digital Archaeology. Also known as CLCV 3000 A and DIGH 3700 B.
 theme: just-the-docs
 
@@ -9,8 +9,6 @@ aux_links:
   Shawn Graham: https://shawngraham.github.io
 
 heading_anchors: true
-
-logo: "https://cdn.carleton.ca/rds/assets/cu-logos/cu-logo-color-right-horiztonal.svg"
 
 callouts:
   warning:
