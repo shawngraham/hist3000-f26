@@ -21,13 +21,13 @@ When I read something in this class, determine: is this 'computational' archaeol
 
 ...and then reflect on the consequences.
 
-## ![](./assets/images/Right_Index_1_from_Cincinnati_Type_Foundry_1882.png) Consequences of that distinction
+## ![](./assets/images/Right_Index_1_from_Cincinnati_Type_Foundry_1882.png) Consequences of That Distinction
 
 If our use of digital tools is merely computational, then there is going to be most often just one 'right' answer. But if our use of digital tools is reflexive, then there are going to be many answers. Either way, _documenting your process_ is a major part of the intellectual work of this class. Thus, the way this class operates, my philosophy of teaching, and the nature of the assessment exercises all flow from that distinction. Ask yourself: am I ok with being 'wrong'? Am I ok with talking about my process, and what I'm trying to accomplish?
 
 There are other consequences too. You'll see it in the names of journals. You'll see it in the nature of conferences, and where scholars publish their work. You'll see it in the nature of who gets to publish, who gets cited, and the kinds of work being done. You'll see it in the politics of technology. I want you to be alive to these issues.
 
-## My Goal
+# My Goal
 My goal here is to teach you to use certain digital techs; to unpack and interrogate those techs you learn to use; and to equip you to use these things in a reflective manner. It’s about archaeology using computation; but also, looking at computation from an archaeological perspective. It’s going to be uncomfortable. There will be things we try here that will not work. The way things break is as important as the way things work. Through broken things, and through breaking things, we learn how the world can be imagined.
 
 ## ![](./assets/images/Right_Index_1_from_Cincinnati_Type_Foundry_1882.png) Archaeology is World Building
@@ -50,20 +50,22 @@ If you go to the gymn, and a machine lifts the weights for you, you look a bit o
 
 If you want your mind to develop, you have to do the hard exercises. 
 
-# ![](./assets/images/Right_Index_1_from_Cincinnati_Type_Foundry_1882.png) AI
+## ![](./assets/images/Right_Index_1_from_Cincinnati_Type_Foundry_1882.png) Which Brings Us to 'AI'
 
-There will be points in this course where it is appropriate to use 'ai' as a word calculator or pattern-surfacer. There are ways of using machine learning and other related technologies that archaeologists use frequently. 
+There will be points in this course where it is appropriate to use 'ai' as a word calculator or pattern-surfacer. There are ways of using machine learning and other related technologies in archaeology that are relatively without controversy; these are not 'ai' as currently marketed/hyped. 
 
 {: .note }
-If you are ever in doubt, _just check with me first_, ok? If - and only if - you clear it with me first, we can put together some guardrails and guidance. 
+If you are ever in doubt about all things AI, _just check with me first_, ok? If - and only if - you clear it with me first, we can put together some guardrails and guidance. I really would enjoy talking about this with you!  
 
 But it really sucks that I have to say the following:
 
-It is never appropriate to use such things to 'speak' for you. If you sloppify your thinking, you're just wasting your time and ruining your mind [making yourself less capable](https://www-nature-com.proxy.library.carleton.ca/articles/d41586-026-01947-1); there are [political reasons why _this particular use is so heavily pushed in the world_](https://newsocialist.org.uk/transmissions/ai-the-new-aesthetics-of-fascism/). 
+It is never appropriate to use such things (ChatGPT, Claude, etc) to 'speak' for you. If you sloppify your thinking, you're just wasting your time and ruining your mind [making yourself less capable](https://www-nature-com.proxy.library.carleton.ca/articles/d41586-026-01947-1); there are [political reasons why _this particular use is so heavily pushed in the world_](https://newsocialist.org.uk/transmissions/ai-the-new-aesthetics-of-fascism/). 
 
 {: .warning }
 You may not use AI tools to 'write' any text submitted to me. There _can_ be cases where an LLM tool may be used, provided you clear it with me first. 
 
-For clarity, 'AI' = any large language model-powered software stack. Don't get me wrong; there are places where the technology of the LLM can be useful for archaeological research; I [wrote an entire book about it, free for you to download](https://thedigitalpress.org/portfolio/practical-necromancy-for-beginners/). 
+For clarity, 'AI' = any large language model-powered software stack. Don't get me wrong; there are places where the technology of the LLM can be useful for archaeological research; I [wrote an entire book about it, free for you to download](https://thedigitalpress.org/portfolio/practical-necromancy-for-beginners/). Again, _talk_ to me first, ok? You might be surprised at what we could do. 
+
+## ![](./assets/images/Right_Index_1_from_Cincinnati_Type_Foundry_1882.png) As Lady Gaga Never Sang: 
 
 I want your shitty prose, your broken thoughts. **That's the whole reason I am a professor:** to help you exercise and develop your mind. It's not about getting something 'right' or 'wrong'. It's about helping you understand the processes involved and what they do to our ability to see the past and reason in the present. If you go look at the assessment section now, you'll see how this plays out in practice: what, exactly, will you be expected to do in this course?
