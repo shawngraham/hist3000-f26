@@ -2,6 +2,7 @@
 title: Schedule
 layout: default
 has_toc: false
+nav_order: 3
 ---
 
 # Just testing
