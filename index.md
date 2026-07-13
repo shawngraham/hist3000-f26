@@ -4,7 +4,12 @@ layout: home
 nav_order: 0
 ---
 
-_crosslisted as CLCV 3000a and DIGH 3700b_
+# course info
++ HIST 3000a, crosslisted as CLCV 3000a and DIGH 3700b
++ Mondays, 11.35 - 2.25
++ Dr. Shawn M. Graham
++ Student coffee chats Wednesday mornings
++ shawn.graham@carleton.ca
 
 ![](./assets/images/Right_Index_1_from_Cincinnati_Type_Foundry_1882.png) Once the excavation is over, what happens to the information created through archaeological research? What about archaeology that does not involve digging? How do archaeologists use digital technologies on site, in the lab, or on the web? This course explores the intersection of digital technologies and computing with archaeology. We will explore the ways theory gets embedded into computation; perhaps there is even a theory of digital archaeology? We will explore how digital technologies allow us to ask questions that would otherwise be impossible to ask. We will take a look at a variety of archaeological statistics. We will also look into the ways that computational creativity in archaeology allow for novel engagements with the past, from archaeogaming to 3d printing, thus moving us into a digital public archaeology. 
 
