@@ -1,6 +1,6 @@
 ---
 title: Week 1
-parent: schedule
+parent: Schedule
 nav_order: 1
 ---
 
