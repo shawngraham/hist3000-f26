@@ -1,5 +1,5 @@
 ---
-title: Schedule
+title: Assessment
 layout: default
 ---
 
