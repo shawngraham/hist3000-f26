@@ -16,6 +16,8 @@ blah blah
 
 ![](../../assets/images/small-image.png)
 
+![](../../assets/images/small-image.png)
+
 {: .warning } 
 And this is a warning
 
