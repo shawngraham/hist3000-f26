@@ -1,6 +1,7 @@
 ---
 title: Schedule
 layout: default
+has_toc: false
 ---
 
 # Just testing
