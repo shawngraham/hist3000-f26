@@ -12,9 +12,9 @@ I'm glad you asked that. I'm not altogether sure.
 {: .warning }
 You're going to need to get comfortable with seeking out good questions rather than finding the _right_ answer.
 
-Archaeologists have been using computers to help ask and answer archaeological questions for almost as long as computers have been around. In fact, I can identify what might be called a computational-frame-of-mind in archaeological writing that _predates_ the emergence of the digital computer. I like to make a distinction though between 'computational' and 'digital' archaeology. In the former, the computer is a mere tool that permits us to do our archaeological work faster, and more efficient (where efficiency = more: more data, more sites, faster results, etc). In the latter, we also consider what the fact of computation (processing) or digitization (rendering something analog into digital format) _does_ to us ourselves. A digital archaeology is a _reflexice_ archaeological practice that also has something to say to the world beyond the discipline.
+Archaeologists have been using computers to help ask and answer archaeological questions for almost as long as computers have been around. In fact, I can identify what might be called a computational-frame-of-mind in archaeological writing that _predates_ the emergence of the digital computer. I like to make a distinction though between 'computational' and 'digital' archaeology. In the former, the computer is a mere tool that permits us to do our archaeological work faster, and more efficient (where efficiency = more: more data, more sites, faster results, etc). In the latter, we also consider what the fact of computation (processing) or digitization (rendering something analog into digital format) _does_ to us ourselves. A digital archaeology is a _reflexive_ archaeological practice that also has something to say to the world beyond the discipline.
 
-Note carefully the title of this course. The first thing you should do is make a note:
+Note carefully the title of this course, eh? How might this all play out? The first thing you should do is set yourself a reminder:
 
 {: .note }
 When I read something in this class, determine: is this 'computational' archaeology or is this 'digital'?
