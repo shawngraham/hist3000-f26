@@ -10,6 +10,8 @@ aux_links:
 
 heading_anchors: true
 
+logo: "https://cdn.carleton.ca/rds/assets/cu-logos/cu-logo-color-right-horiztonal.svg"
+
 callouts:
   warning:
     title: Warning
