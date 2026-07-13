@@ -52,21 +52,21 @@ If you want your mind to develop, you have to do the hard exercises.
 
 ## ![](./assets/images/Right_Index_1_from_Cincinnati_Type_Foundry_1882.png) Which Brings Us to 'AI'
 
-There will be points in this course where it is appropriate to use 'ai' as a word calculator or pattern-surfacer. There are ways of using machine learning and other related technologies in archaeology that are relatively without controversy; these are not 'ai' as currently marketed/hyped. 
+There will be points in this course where it is appropriate to use 'ai' as a word calculator or pattern-surfacer. There are ways of using machine learning and other related technologies in archaeology that are relatively without controversy; these are not 'ai' as currently marketed/hyped. AI, as you've encountered it in copilot, chatgpt, claude, or wherever else, promises the ease of thoughts without thinkers, writing without writers. Who does that ultimately benefit, hmm? 
 
 {: .note }
 If you are ever in doubt about all things AI, _just check with me first_, ok? If - and only if - you clear it with me first, we can put together some guardrails and guidance. There are places where the technology of the LLM can be useful for archaeological research; I [wrote an entire book about it, free for you to download](https://thedigitalpress.org/portfolio/practical-necromancy-for-beginners/). Again, _talk_ to me first, ok? You might be surprised at what we could do.  
 
 I really would enjoy talking about this with you! But it really sucks that I have to say the following:
 
-**It is never appropriate to use such things (ChatGPT, Claude, etc) to 'speak' for you.** Writing is thinking. Writing is hard precisely because we don't know what we're thinking until we do it. The difficulty is the point. 
+**It is never appropriate to use such things (ChatGPT, Claude, etc) to 'speak' for you.** Writing is thinking. Writing is hard precisely because we don't know what we're thinking until we write it down. The difficulty is the point. 
 
 If you sloppify your thinking, you're just wasting your time and ruining your mind [making yourself less capable](https://www-nature-com.proxy.library.carleton.ca/articles/d41586-026-01947-1). There are [political reasons why _ai-in-lieu of thinking for ourselves is being so heavily pushed in the world_](https://newsocialist.org.uk/transmissions/ai-the-new-aesthetics-of-fascism/). 
 
 {: .warning }
-You may not use AI tools to 'write' any text submitted to me, without prior documented clearance and planning.
+You may not use AI tools to 'write' any text submitted to me, without prior documented clearance and planning. I reserve the right to ask you to reproduce or deepen the line of thought in any piece of submitted work _in person_ (via oral interview or hand-written document), whereupon grades will be adjusted accordingly.
 
-For clarity, 'AI' = any large language model-powered software stack.   
+For clarity, here 'AI' = any large language model-powered software stack.   
 
 ## ![](./assets/images/Right_Index_1_from_Cincinnati_Type_Foundry_1882.png) As Lady Gaga Never Sang: 
 
