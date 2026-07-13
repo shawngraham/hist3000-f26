@@ -9,10 +9,12 @@ nav_order: 1
 
 Here we are?
 
-{: .note } And this is important
+{: .note } 
+And this is important
 
 blah blah
 
-{: .warning } And this is a warning
+{: .warning } 
+And this is a warning
 
 blurg lburg
