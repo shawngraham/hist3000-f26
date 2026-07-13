@@ -1,5 +1,6 @@
 ---
 title: Week 1
+layout: default
 parent: Schedule
 nav_order: 1
 ---
