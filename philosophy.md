@@ -64,9 +64,9 @@ I really would enjoy talking about this with you! But it really sucks that I hav
 If you sloppify your thinking, you're just wasting your time and ruining your mind [making yourself less capable](https://www-nature-com.proxy.library.carleton.ca/articles/d41586-026-01947-1). There are [political reasons why _ai-in-lieu of thinking for ourselves is being so heavily pushed in the world_](https://newsocialist.org.uk/transmissions/ai-the-new-aesthetics-of-fascism/). 
 
 {: .warning }
-You may not use AI tools to 'write' any text submitted to me, without prior clearance and planning in concert with me.
+You may not use AI tools to 'write' any text submitted to me, without prior documented clearance and planning.
 
-For clarity, 'AI' = any large language model-powered software stack.  
+For clarity, 'AI' = any large language model-powered software stack.   
 
 ## ![](./assets/images/Right_Index_1_from_Cincinnati_Type_Foundry_1882.png) As Lady Gaga Never Sang: 
 
