@@ -29,14 +29,14 @@ Cook, Katherine. 2018 Open Data as Public Archaeology: The Monumental Archive Pr
 - Meet at the Billings Estate
 - Last day I asked you to build a personal data set- we're going to start by discussing that. What challenged you, and if you can, why did it challenge you? What kind of meaningful differences would exist in your dataset if you were documenting physical materials?
 - Then we'll divy up the work
-- As you perform the work, record not just what you're doing, but also your thoughts and impressions on the work. Discuss with each other the readings as you do the work. This is a national historic site; to whom does this data belong?
+- As you perform the work, record not just what you're doing, but also your thoughts and impressions on the work. Discuss with each other the readings as you do the work. This is a national historic site; to whom does this data belong? What choices are foisted upon you because of the technology you're working with? How might that impact the questions you could ask of this data?
 
 **Activity** We will break into groups and attempt to record all of the gravestone information that is visible. You will need a smartphone or tablet. 
   - Visual data recording using field collection forms: [Detailed instructions are behind this link](./assets/support/#).
   - Photogrammetric data recording: We will try our hand at in-situ photogrammetric recording of the gravestones- [detailed instructions are behind this link](./assets/support/#) and note that you should download and install some of the suggested apps before hand. It is possible to develop photogrammetric models from images/video that you process later, so if you do not wish to use an app that is ok; photos and videos for later processing is viable (we have software in the XLab for doing this). You might also want to try recording the ice house.
   - Simple mapping of the graveyard: [Detailed instructions are behind this link](./assets/support/#).
 
-**Homework** By Friday at noon, have your research compendium for this week complete and in github. 
+**Homework** By Friday at noon, have your research compendium for this week complete and in github. Remember, those discussions we have while we do the work? That stuff needs recording and thinking about too! 
 
 ![ca-002104](../assets/images/billings-estate-ca-002104.png)
 
