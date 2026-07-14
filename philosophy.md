@@ -4,9 +4,6 @@ layout: default
 nav_order: 1
 ---
 
-1. TOC
-{:toc}
-
 # ![](./assets/images/Right_Index_1_from_Cincinnati_Type_Foundry_1882.png) What Is Digital Archaeology?
 
 I'm glad you asked that. I'm not altogether sure.
@@ -74,3 +71,4 @@ For clarity, here 'AI' = any large language model-powered software stack.
 
 I want your shitty prose, your broken thoughts. **That's the whole reason I am a professor:** to help you exercise and develop your mind. It's not about getting something 'right' or 'wrong'. It's about helping you understand the processes involved and what they do to our ability to see the past and reason in the present. If you go look at the assessment section now, you'll see how this plays out in practice: what, exactly, will you be expected to do in this course? (Now: if you've read this far, send me an email with 'why? why yes!' as the subject line, stating that you have in fact read and thought about this page, that you're ready to start the course, and tell me which week you're most looking forward to and why. They say that people do not read very much any more; you're going to read a lot in this class if you're doing it right.)
 
+(...the thing with the pointing hand? That's called a 'manicule'. I just like them.)
