@@ -1,9 +1,11 @@
 ---
 title: Why?
 layout: default
-has_toc: false
 nav_order: 1
 ---
+
+1. TOC
+{:toc}
 
 # ![](./assets/images/Right_Index_1_from_Cincinnati_Type_Foundry_1882.png) What Is Digital Archaeology?
 
