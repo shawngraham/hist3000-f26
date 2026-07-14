@@ -5,153 +5,40 @@ parent: Schedule
 nav_order: 1
 ---
 
-# Week 1
+# Week 1 - Sept. 14
 
-Here we are?
+**Location**: Campus
 
-{: .note } 
-And this is important
+**Theme**: How does the human past become data? What the hang is Digital Archaeology? Which flavour(s) of digital archaeology will we explore in this class?
 
-blah blah
+Before you come to class: Colleen Morgan. 2022. [Current Digital Archaeology. Annual Review Anthropology. 51:213-231. https://doi.org/10.1146/annurev-anthro-041320-114101](https://www.annualreviews.org/content/journals/10.1146/annurev-anthro-041320-114101#) _Read like a predator!_ Read the Introduction, then read the Conclusion. Then dive into anything else of interest: what captures your interest? What do you want to know more about?  
 
-Image:
+**The Plan**:
+- data vs data story activity, or, how I propose to learn something of who you are (and vice versa) 
+- Discussion
+- Digital archaeology and the flavours of it that I practice - [networks](https://hcommons.org/deposits/item/hc:18909/), [simulations](https://www.berghahnbooks.com/title/GrahamEnchantment), [computer vision](https://www.berghahnbooks.com/title/HufferThese), [antiquities trade](https://www.cambridge.org/core/journals/advances-in-archaeological-practice/article/relationship-prediction-in-a-knowledge-graph-embedding-model-of-the-illicit-antiquities-trade/9B802F4BEFEA325D3221E39BCE4F3A63), [space archaeology](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304229), [archaeology impossible](https://archaeologyimpossible.github.io/), [practical necromancy](https://thedigitalpress.org/practical-necromancy-for-beginners/) 
+- Syllabus review, and the Billings Estate Project
+  - mortuary archaeology, buildings archaeology 
+- nuts and bolts: getting your computer set up. Github, Google Collab, and possibly a variety of apps on your phone.
 
-![](../../assets/images/small-image.png)
+**Activity**:
 
-I'm a label
-{: .label }
+This activity owes much to the pedagogical practice of [Brandon Walsh, Director of Student Programs at the Scholarslab](https://walshbr.com/about), a leading research institute in the digital humanities at the University of Virginia. He uses it at the start of one of his own classes (see also his post on ['personal data stories'](https://walshbr.com/blog/personal-data-story/)). What I like about this exercise, in the context of digital archaeology, is that it really gets you thinking about the connection between the subject - you - and the traces you leave behind. 
 
-blue
-{: .label .label-blue }
-green
-{: .label .label-green }
-purple
-{: .label .label-purple }
-yellow
-{: .label .label-yellow }
-red
-{: .label .label-red }
+- Identify your data
+  - Who are you?
+- Describe your data
+  - What are you interested in describing as a part of your dataset? What are you not?
+- Collect
+  - Gather your data in one place.
+- Clean
+  - Edit the dataset so that it’s in a presentable, consistent format.
+- Analyze
+  - What stories are in your dataset?
+- Distribute
+  - How will you share it back to me?
 
-**bold**
-{: .label }
-*italic*
-{: .label }
-***bold + italic***
-{: .label }
+(Brandon Waslh, [Data for the Rest of Us](https://walshbr.com/data-for-the-rest-of-us/week-1-intro/). You can pair up, you can divvy up, use whatever's handy and you feel comfortable with sharing, I like a noisy classroom.
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-#### Multiple description terms and values
-
-Term
-: Brief description of Term
-
-Longer Term
-: Longer description of Term,
-  possibly more than one line
-
-Term
-: First description of Term,
-  possibly more than one line
-
-: Second description of Term,
-  possibly more than one line
-
-Term1
-Term2
-: Single description of Term1 and Term2,
-  possibly more than one line
-
-Term1
-Term2
-: First description of Term1 and Term2,
-  possibly more than one line
-
-: Second description of Term1 and Term2,
-  possibly more than one line
-
-### More code
-
-```python{% raw %}
-def dump_args(func):
-    "This decorator dumps out the arguments passed to a function before calling it"
-    argnames = func.func_code.co_varnames[:func.func_code.co_argcount]
-    fname = func.func_name
-    def echo_func(*args,**kwargs):
-        print fname, ":", ', '.join(
-            '%s=%r' % entry
-            for entry in zip(argnames,args) + kwargs.items())
-        return func(*args, **kwargs)
-    return echo_func
-
-@dump_args
-def f1(a,b,c):
-    print a + b + c
-
-f1(1, 2, 3)
-
-def precondition(precondition, use_conditions=DEFAULT_ON):
-    return conditions(precondition, None, use_conditions)
-
-def postcondition(postcondition, use_conditions=DEFAULT_ON):
-    return conditions(None, postcondition, use_conditions)
-
-class conditions(object):
-    __slots__ = ('__precondition', '__postcondition')
-
-    def __init__(self, pre, post, use_conditions=DEFAULT_ON):
-        if not use_conditions:
-            pre, post = None, None
-
-        self.__precondition  = pre
-        self.__postcondition = post
-{% endraw %}```
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-### Mermaid Diagrams
-
-The following code is displayed as a diagram only when a `mermaid` key supplied in `_config.yml`.
-
-```mermaid
-graph TD;
-    accTitle: the diamond pattern
-    accDescr: a graph with four nodes: A points to B and C, while B and C both point to D
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
-### Collapsed Section
-
-The following uses the [`<details>`](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections) tag to create a collapsed section.
-
-<details markdown="block">
-<summary>Shopping list (click me!)</summary>
-
-This is content inside a `<details>` dropdown.
-
-- [ ] Apples
-- [ ] Oranges
-- [ ] Milk
-
-</details>
-
-{: .warning } 
-And this is a warning
-
-blurg lburg
+**Homework**:
+- by Friday noon, send your dataset to me. For Monday, be prepared to talk about what challenged you, and if you can, why it challenged you. What kind of meaningful differences would exist in your dataset if you were documenting physical materials?
