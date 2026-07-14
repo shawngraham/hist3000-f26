@@ -5,15 +5,15 @@ has_toc: false
 nav_order: 3
 ---
 
-- TOC
-{:toc}
-
 # Schedule
 {: .no_toc }
 
 There is a rough parallel between what we do in this course, and the sequence of actions that turns human debris into archaeological knowledge. Roughly, we move from **capturing/creating** data, to **considering/critiquing** both the data and our methods working with and through the information, to **communicating** the data (both to other researchers, and to wider publics). This last one can also include reproduction/replicability of earlier studies, which means that all of this isn't linear, but circular. That circularity carries with it the implication that your _research process_, your notes, your thinking about what you're doing, and all of that messy emphemera, are _also_ archaeological data and need to be documented, and fed into the circle.
 
 Nothing is ever one-and-done.
+
+- TOC
+{:toc}
 
 ## Animating Questions for each Module
 
