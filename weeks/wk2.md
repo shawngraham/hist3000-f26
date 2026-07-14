@@ -38,6 +38,6 @@ Cook, Katherine. 2018 Open Data as Public Archaeology: The Monumental Archive Pr
 
 **Homework** By Friday at noon, have your research compendium for this week complete and in github. 
 
-![ca-002104](./assets/images/billings-estate-ca-002104.png)
+![ca-002104](../assets/images/billings-estate-ca-002104.png)
 
 _City of Ottawa Archives_ ca 002104
