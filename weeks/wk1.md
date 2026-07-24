@@ -7,6 +7,8 @@ nav_order: 1
 
 # Week 1 - Sept. 14
 
+## Module 1 Capturing & Creating Data
+
 **Location**: Campus
 
 **Theme**: How does the human past become data? What the hang is Digital Archaeology? Which flavour(s) of digital archaeology will we explore in this class?
@@ -41,4 +43,4 @@ This activity owes much to the pedagogical practice of [Brandon Walsh, Director 
 (Brandon Waslh, [Data for the Rest of Us](https://walshbr.com/data-for-the-rest-of-us/week-1-intro/). You can pair up, you can divvy up, use whatever's handy and you feel comfortable with sharing, I like a noisy classroom.
 
 **Homework**:
-- by Friday noon, send your dataset to me. For Monday, be prepared to talk about what challenged you, and if you can, why it challenged you. What kind of meaningful differences would exist in your dataset if you were documenting physical materials?
+- by Friday noon, send your dataset to me. For Monday, be prepared to talk about what challenged you, and if you can, why it challenged you. What kind of meaningful differences would exist in your dataset if you were documenting physical objects?

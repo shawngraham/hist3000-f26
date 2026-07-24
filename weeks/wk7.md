@@ -9,11 +9,13 @@ nav_order: 7
 
 **Location**
 
-**Theme**
+**Theme** Networks: social, knowledge, and others. Agent Based Models.
 
 **Have Read for Today**
 
 **The Plan**
+
+
 
 **Skill Building**
 

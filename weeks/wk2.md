@@ -5,7 +5,7 @@ parent: Schedule
 nav_order: 2
 ---
 
-# Week 2: Sept 21
+# Week 2 - Sept 21
 
 ## Introduction to the Billings Estate
 

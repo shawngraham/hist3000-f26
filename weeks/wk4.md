@@ -13,7 +13,6 @@ nav_order: 4
 
 **Have Read for Today**
 + D’Ignazio, Catherine and Klein, L. 2020. ‘What gets counted, counts’. From Data Feminism [link](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3)
-+ Kansa, E.C. 2026 Archaeology in the AI Era: Demystifying powerful and problematic systems shaping the future of the past, Internet Archaeology 71. https://doi.org/10.11141/ia.71.15
 
 
 **The Plan**
@@ -21,7 +20,12 @@ We're visiting the NCC's archaeology labs downtown to see how they document thei
 
 **Skill Building**
 - more 3d modeling using camera apps, photographs + photoscan (courtesy of the XLab), or the structured light or laser scanners
-- document-to-structured data workflow using camera photography and a python notebook deploying the PaddleOCR models. We will use a kind of vision model from a service called 'PaddleOCR' to turn scanned images of documents into data. (Ask yourself: who, or what, is PaddleOCR? What happens to the image data?). Take a copy of [this notebook](#).
+- document-to-structured data workflow using camera photography and a python notebook deploying the PaddleOCR models. We will use a kind of vision model from a service called 'PaddleOCR' to turn scanned images of documents into data. (Ask yourself: who, or what, is PaddleOCR? What happens to the image data?). Take a copy of [this notebook](https://colab.research.google.com/github/shawngraham/hist3000-f26/blob/main/assets/notebooks/images_to_structured_text.ipynb) (ie, open that link in a new window, and then click File > Save a copy in Drive to create your own working version. Loading all of the pieces into memory will take several minutes. Just be patient. Work from top to bottom and read through carefully. 
+
 
 **Homework** 
 By Friday at noon, have your research compendium for this week complete and in github. Where does the labour move, when we deploy these workflows? What 'counts'? Put a copy of your code notebook into the compendium too (because you may have made changes to your version, etc.). How good is the output? Are there other services you could try?
+
+![ADS](../assets/images/register.png)
+
+_A page from the east drawing register, [Data from an Archaeological Recording at Deserted Medieval Village of Lower Radbourne, Warwickshire, 2021-2022 (HS2 Phase One)](https://archaeologydataservice.ac.uk/archives/collections/view/1005014/index.cfm)_

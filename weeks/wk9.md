@@ -5,11 +5,11 @@ parent: Schedule
 nav_order: 9
 ---
 
-# Week 9
+# Week 9 - Nov. 16
 
 **Location**
 
-**Theme**
+**Theme** Consolidation II
 
 **Have Read for Today**
 
