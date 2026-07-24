@@ -7,14 +7,14 @@ nav_order: 9
 
 # Week 9
 
-Here we are?
+**Location**
 
-{: .note } 
-And this is important
+**Theme**
 
-blah blah
+**Have Read for Today**
 
-{: .warning } 
-And this is a warning
+**The Plan**
 
-blurg lburg
+**Skill Building**
+
+**Homework**
