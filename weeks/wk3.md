@@ -5,7 +5,7 @@ parent: Schedule
 nav_order: 3
 ---
 
-# Week 3 - Sept 28
+# Week 3 - Sept. 28
 
 _If you were at Billings in week 2, you go to the Library (ground floor) GIS Lab in week 3; if you were at the GIS Lab on Sept 21 (week 2) you go to Billings on Sept 28 (week 3) and do the things listed under [week 2](wk2)._
 
@@ -34,7 +34,7 @@ When you have completed the workshop materials, if you still have time, use what
 {: .note }
 Each lesson says that it will take '1hr'; this is just a place holder figure. It probably won't take you anything like that at all. Just see how it goes. You read the materials on the left hand side of the page, and then in the top right there's some starter code. You can modify it, run it, click for hints, or click to reveal fully working code. It's meant to be a space to try things out, low-key, low-stress. Keep notes on what you're doing and what seems to work and why.
 
-- Retrieve spatial data from the Archaeology Data Service, using Google Collab and a code notebook. linlithgow_spatial.ipynb is a modified version of work created by Dr. Rachel Opitz that shows you how to retrieve archaeological spatial data from the Archaeology Data Service in the UK using Python. Work through that; **it's ok if things break or don't go according to plan**. That's partly the point: I'm trying to teach you to value the *process* as part of your learning. I'm not interested in 'right' or 'wrong' today. So when (not if!) things go wrong, *document* it. What were you trying to do? What did you expect would happen? What kind of error message did you get? Document, document, document! Write it all down, take screenshots. Put all of this in your research compendium.
+- Retrieve spatial data from the Archaeology Data Service, using Google Collab and a code notebook. `linlithgow_spatial.ipynb` is a modified version of work created by Dr. Rachel Opitz that shows you how to retrieve archaeological spatial data from the Archaeology Data Service in the UK using Python. Work through that; **it's ok if things break or don't go according to plan**. That's partly the point: I'm trying to teach you to value the *process* as part of your learning. I'm not interested in 'right' or 'wrong' today. So when (not if!) things go wrong, *document* it. What were you trying to do? What did you expect would happen? What kind of error message did you get? Document, document, document! Write it all down, take screenshots. Put all of this in your research compendium.
 
 Future You will appreciate what Past You went through.
 

@@ -21,26 +21,34 @@ I *never* want to see or hear that you struggled mightily with some kind of tech
 Therefore, for practice-based exercises I require the following:
 
 A weekly compendium kept in Github that **must** contain:
-- A log of what you tried and what happened (the literal process and outcomes).
+- A log of what you tried and what happened (the literal process and outcomes). This can be bullet-point.
 - any files you create in the course of trying an exercise, kept in Github
-- an overview note connecting what you tried to the questions raised by what you've read, what I've said in class, and/or other exercises you've tried. If someone else helped you out, I expect to see that acknowledged here.  
+- an overview note connecting what you tried to the questions raised by what you've read, what I've said in class, and/or other exercises you've tried. If someone else helped you out, I expect to see that acknowledged here. This can be bullet-point.  
+
+Those three elements together constitute a 'good faith' effort.
 
 That's it. A 'compendium' can be a subfolder in your github class repository.
 
 |Number of good-faith efforts   | Grade for this component of the course   | Point Equivalent |
 |---|---|---|
-|10   | A  | 26 |
-|9   | A-  | 25 |
-|8   | B+  | 23 |
-|7| B | 22 |
-|6|C | 19|
-|5 - 1|D| 16|
+|18-20   | A  | 26 |
+|16-18   | A-  | 25 |
+|14-16   | B+  | 23 |
+|12-13| B | 22 |
+|11|C | 19|
+|10 - 1|D| 16|
 
-An 'A' here is in the midpoint of the range of 85-89% on the Carleton grading scale. The overall contribution of this section to the final grade is 30%. Thus .87*30 for instance would be 26/30. The leeway allows for special circumstances.
+An 'A' here is in the midpoint of the range of 85-89% on the Carleton grading scale. The overall contribution of this section to the final grade is 30%. Thus .87x30 for instance would be 26/30. The leeway allows for special circumstances.
+
+Use the checklist document to keep track. Note that there are 23 exercises on that list.
 
 ## Consolidation
 
-At the end of the first module, and at the end of the second, you will write a consolidation document during class time. These documents are opportunities to look back over the previous weeks and work out what you've been learning, where the problems have been, and what this all means for you going forward; you draw on your own experiences/exercises, on the readings, and on the lectures. See the relevant week for details on what the different consolidation documents ask for, and guidance for what constitutes a good consolidation. (In years past, this was something that you could've done at home, like an essay assignment. But I received too many machine-generated pieces, so that privilege I no longer permit).
+At the end of the first module, and at the end of the second, you will write a consolidation document during class time. Because these are reflective pieces, these will be by-hand without computing assistance (subject to accommodations). 
+
+These documents are opportunities to look back over the previous weeks and work out what you've been learning, where the problems have been, and what this all means for you going forward; you draw on your own experiences/exercises, on the readings, and on the lectures. See the relevant week for details on what the different consolidation documents ask for, and guidance for what constitutes a good consolidation. 
+
+(In years past, this was something that you could've done at home, like an essay assignment. But I received too many machine-generated pieces, so that privilege I no longer permit; similarly, this is why I want these by-hand without access to devices).
 
 ## Final
 

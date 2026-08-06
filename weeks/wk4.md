@@ -5,7 +5,7 @@ parent: Schedule
 nav_order: 4
 ---
 
-# Week 4 - Oct 5
+# Week 4 - Oct. 5
 
 **Location** NCC, 75 Albert Street, with Monica Maika, at 12.15 and at 1.15 (we'll divide into two smaller groups to keep things manageable for our hosts).
 
