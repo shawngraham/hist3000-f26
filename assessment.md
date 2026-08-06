@@ -4,6 +4,14 @@ layout: default
 nav_order: 2
 ---
 
+# Learning Outcomes
+The four points below address your analytical ability, your engagement with methodology, collaboration, argumentation, and professionalization.
+
+- Situate the emergence and evolution of digital archaeology within the historiography of archaeology more broadly (analytical ability, argumentation)
+- Implement and contribute to a digital archaeology gravestones’ and monuments survey (methodology, collaboration, professionalization)
+- Investigate data, artifacts, and primary sources, using the methods/techniques/perspectives of digital archaeology and digital humanities (analytical ability, methodology, collaboration, professionalization)
+- Collaboration: digital archaeologists collaborate to troubleshoot or develop technologies, and through open practices to data sharing and reuse, learn to build upon each others’ work in a collaborative fashion. (collaboration, professionalization, methodology)
+
 # Assessment
 
 Assessment is based on a mixture of practice-based and reflection-based work. For the practice-based exercises, you are in control of how much you do (a perspective based in specification-based and contract-based grading pedagogical approaches). I do this because I want you to **explore** and experiment. To push yourself out of your comfort level. I do not want you trying to game the system to figure out the secret curriculum and what I'm 'really' after.
