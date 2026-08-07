@@ -7,8 +7,12 @@ nav_order: 50
 
 ## Skill Building Exercises
 
+You don't have to do all of these to 'perfection'. I know this is your first kick at the can at digital archaeology. I want you to try, in good faith, as many as you can. _The important thing, when something techy doesn't go according to plan, is to think about the process, not the result._
+
+
 Wk 1
 - [ ] Personal Data Set
+
 Wk 2: 
 - [ ] Data Recording
 - [ ] Photogrammetry
