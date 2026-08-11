@@ -12,3 +12,4 @@ We are grateful to the [Billings Estate National Historic Site Museum](https://o
 
 We thank Joël Rivard, Meaghan Kenny of [MacOdrum Library's GIS department](https://library.carleton.ca/find/gis).
 
+
