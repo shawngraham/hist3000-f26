@@ -7,35 +7,39 @@ nav_order: 3
 
 # Week 3 - Sept. 28
 
-_If you were at Billings in week 2, you go to the Library (ground floor) GIS Lab in week 3; if you were at the GIS Lab on Sept 21 (week 2) you go to Billings on Sept 28 (week 3) and do the things listed under [week 2](wk2)._
+## Introduction to the Billings Estate
 
-**Location**: GIS Lab, at the Tunnel Entrance to the Library
+{: .note } 
+There are more than 60 of you, so we'll split the class. Group A goes to the Billings Estate **this** week, while group B will go to the GIS Lab on the ground floor of the library, and do the materials listed for **Week 4**. Then, next week, group A does the week 4 materials and group B does the week 3 materials.
 
-**Theme**: Maps have power 
+**Location**: Billings Estate (start time: 12.35)
 
-**Have Read for Today**: 
+**Theme**: Mortuary Archaeology and Data Collection. As we work at the estate, how do the ethical issues discussed in the readings surface in what we are doing? Are there ethical or physical dangers for you? How does the work I am asking you to do present ethical or moral challenges?
 
-Hacıgüzeller, P. (2024). Archaeology, Crafting Maps and Political Change, in T. Rossetto and Lo Presti, L. (eds). The Routledge Handbook of Cartographic Humanities. London: Routledge. [link](https://www-taylorfrancis-com.proxy.library.carleton.ca/chapters/edit/10.4324/9781003327578-11/archaeology-crafting-maps-political-change-piraye-hac%C4%B1g%C3%BCzeller)
+**Have Read for Today**:
 
-Hacıgüzeller, P. (2017). Archaeological (Digital) Maps as Performances: Towards Alternative Mappings. Norwegian Archaeological Review, 50(2), 149–171. https://doi-org.proxy.library.carleton.ca/10.1080/00293652.2017.1393456
++ Billings Family Virtual Exhibit [a pdf actually](https://documents.ottawa.ca/sites/default/files/billings%20family%20virtual%20exhibit_en.pdf)
+
++ Dennis, L. 2021. Getting It Right and Getting It Wrong in Digital Archaeological Ethics. In: Champion, E (ed.), Virtual Heritage. London: Ubiquity Press. DOI: [https://doi.org/10.5334/bck.j](https://doi.org/10.5334/bck.j)
+
++ Graham's [cheat sheet on mortuary archaeology](./assets/support/#).
+
++ Huggett, J. (2026) ‘Ethics and Digital Archaeology’, in E. Barker, O. Bobou, and R. Raja (eds) The Oxford Handbook of Digital Classical Studies. Oxford: Oxford University Press, pp. 136–148 [preprint version available behind this link](https://works.hcommons.org/records/b79ag-11n88).
 
 
 **The Plan**:
+- Meet at the Billings Estate Graveyard
+- Last day I asked you to build a personal data set- we're going to start by discussing that. What challenged you, and if you can, why did it challenge you? What kind of meaningful differences would exist in your dataset if you were documenting physical materials?
+- Then we'll divy up the work
+- As you perform the work, record not just what you're doing, but also your thoughts and impressions on the work. Discuss with each other the readings as you do the work. This is a national historic site; to whom does this data belong? What choices are foisted upon you because of the technology you're working with? How might that impact the questions you could ask of this data?
 
-The GIS librarians will take you through the basic concepts of geographic information systems, one of the foundational technologies and approaches for computational/digital archaeology and so commonplace now in the discipline that its assumptions and ways of representing the past sometimes pass without comment. 
+**Skill Building** We will break into groups and attempt to record all of the gravestone information that is visible. You will need a smartphone or tablet. 
+  - Visual data recording using field collection forms: [Detailed instructions are behind this link](./assets/support/#).
+  - Photogrammetric data recording: We will try our hand at in-situ photogrammetric recording of the gravestones- [detailed instructions are behind this link](./assets/support/#) and note that you should download and install some of the suggested apps before hand. It is possible to develop photogrammetric models from images/video that you process later, so if you do not wish to use an app that is ok; photos and videos for later processing is viable (we have software in the XLab for doing this). You might also want to try recording the ice house.
+  - Simple mapping of the graveyard: [Detailed instructions are behind this link](./assets/support/#).
 
-When you have completed the workshop materials, if you still have time, use what remains to work through the 'skill building' session below. You do not have to do these things on your own, but if you do collaborate with someone, you can practice good digital ethics by thinking through how to acknowledge that collaboration in your research compendium.
+**Homework** By Friday at noon, have your research compendium for this week complete and in github. Remember, those discussions we have while we do the work? That stuff needs recording and thinking about too! 
 
-**Skill Building**: 
-- Any files or code you create in the GIS workshop, please store as a research compendium.
+![ca-002104](../assets/images/billings-estate-ca-002104.png)
 
-- Digital Literacy Intro. The DHPrimer is an in-browser environment for a gentle introduction to a variety of code-related issues. Visit the [website](https://test-for-dh-tutorials.netlify.app) and do its on-boarding service; everything lives in the browser and I cannot see your interactions with the site. This is a work-in-progress I am building that is meant to help you with the basics in a welcoming way. There is an 'Orientation' lesson and 3 lessons on 'Digital Literacy Foundations'. If you're feeling up to it, 'Python Basics for Humanists' would probably be handy too. 
-
-{: .note }
-Each lesson says that it will take '1hr'; this is just a place holder figure. It probably won't take you anything like that at all. Just see how it goes. You read the materials on the left hand side of the page, and then in the top right there's some starter code. You can modify it, run it, click for hints, or click to reveal fully working code. It's meant to be a space to try things out, low-key, low-stress. Keep notes on what you're doing and what seems to work and why.
-
-- Retrieve spatial data from the Archaeology Data Service, using Google Collab and a code notebook. `linlithgow_spatial.ipynb` is a modified version of work created by Dr. Rachel Opitz that shows you how to retrieve archaeological spatial data from the Archaeology Data Service in the UK using Python. Work through that; **it's ok if things break or don't go according to plan**. That's partly the point: I'm trying to teach you to value the *process* as part of your learning. I'm not interested in 'right' or 'wrong' today. So when (not if!) things go wrong, *document* it. What were you trying to do? What did you expect would happen? What kind of error message did you get? Document, document, document! Write it all down, take screenshots. Put all of this in your research compendium.
-
-Future You will appreciate what Past You went through.
-
-**Homework** By Friday at noon, have your research compendium for this week complete and in github. Make explicit connection between your fails (which are not really 'fails', just the difference between Future You and Present You) and the ideas you encountered in the workshop and in the readings.
+_City of Ottawa Archives_ ca 002104

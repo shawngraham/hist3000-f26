@@ -5,40 +5,46 @@ parent: Schedule
 nav_order: 2
 ---
 
-# Week 2 - Sept. 21
+# Week 2 - Sept. 21 Contemporary Archaeology and Digital Archaeology
 
-## Introduction to the Billings Estate
+Contemporary archaeology is about using archaeological methods and techniques to investigate the world around us. If digital archaeology is about thinking through the implications of the transformations the world goes through from physical to digital and back again, then we can see obvious points of connection between contemporary archaeology and digital archaeology. In which case this week is about setting you up to use digital archaeology as you investigate a contemporary archaeological problem.
 
-_If we've split the class to make numbers manageable, group A goes to the Billings Estate, while group B will stay in the classroom and do the materials listed as **Week 3**. Then, next week, group A does the week 3 materials and group B does the week 2 materials._
+Remember: as part of your personal digital archaeology project you will
+- define a question of interest _to you_
+- design and build a data collection strategy/tool
+- use the weekly practice exercises to develop your skills as you
+	- collect data
+	- transform data
+	- communicate your observations/findings appropriately
+	- while documenting the choices and implications of those choices.
 
-**Location**: Billings Estate (start time: 12.35)
+We'll talk about the kinds of transformations involved in moving from the physical to the digital. Say you built a paper form to record your field observations. For those observations to be computational, we need to turn them into structured text. An image isn't much use on its own, but the act of moving from image -> text -> database is complicated.  
 
-**Theme**: Mortuary Archaeology and Data Collection. As we work at the estate, how do the ethical issues discussed in the readings surface in what we are doing? Are there ethical or physical dangers for you? How does the work I am asking you to do present ethical or moral challenges?
+**Location**: our classroom; campus exploration
 
 **Have Read for Today**:
 
-+ Billings Family Virtual Exhibit [a pdf actually](https://documents.ottawa.ca/sites/default/files/billings%20family%20virtual%20exhibit_en.pdf)
++ D’Ignazio, Catherine and Klein, L. 2020. ‘What gets counted, counts’. From Data Feminism [link](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3)
 
-+ Dennis, L. 2021. Getting It Right and Getting It Wrong in Digital Archaeological Ethics. In: Champion, E (ed.), Virtual Heritage. London: Ubiquity Press. DOI: [https://doi.org/10.5334/bck.j](https://doi.org/10.5334/bck.j)
+Supplementary:
 
-+ Graham's [cheat sheet on mortuary archaeology](./assets/support/#).
+- Bonnichsen, R. (1973). “Millie’s Camp: An Experiment in Archaeology.” World Archaeology, 4(3): 277–291. (Note the year of publication and the dated language)
+- Newman, S.E. (2023). “Archaeologies of Garbage.” In Unmaking Waste: New Histories of Old Things, U. Chicago, 37-66
+- Graesch, A. and T. Hartshorn (2023). “Litterscapes in the Anthropocene: An Archaeology of Discarded Cigarettes.” In Archaeology Out of the Box, UC Press. 147-132.
+- Walsh, J., S. Graham, A. Gorman, C. Brousseau, and S. Abdullah (2024). “Archaeology in space: The Sampling Quadrangle Assemblages Research Experiment (SQuARE) on the International Space Station. Report 1: Squares 03 and 05.” PLOS One 19(8): e0304229. https://doi.org/10.1371/journal.pone.0304229
 
-+ Huggett, J. (2026) ‘Ethics and Digital Archaeology’, in E. Barker, O. Bobou, and R. Raja (eds) The Oxford Handbook of Digital Classical Studies. Oxford: Oxford University Press, pp. 136–148 [preprint version available behind this link](https://works.hcommons.org/records/b79ag-11n88).
-
+**FYI** there are archaeologies of homes and homelessness, of undocumented migration, of the COVID-19 pandemic, of space, of video games, disasters and conflict, of nuclear sites, and many more. See also [CHAT](https://chat-arch.org/publish-with-chat/chat-publications/).
 
 **The Plan**:
-- Meet at the Billings Estate Graveyard
 - Last day I asked you to build a personal data set- we're going to start by discussing that. What challenged you, and if you can, why did it challenge you? What kind of meaningful differences would exist in your dataset if you were documenting physical materials?
-- Then we'll divy up the work
-- As you perform the work, record not just what you're doing, but also your thoughts and impressions on the work. Discuss with each other the readings as you do the work. This is a national historic site; to whom does this data belong? What choices are foisted upon you because of the technology you're working with? How might that impact the questions you could ask of this data?
+- Lecture on Contemporary Archaeology
+- Unconference: Carleton University is a pretty big place. What kinds of contemporary archaeologies might we do or find here?
+- We'll build a recording sheet for use with mobile devices, then you can head out to start observing.
 
-**Skill Building** We will break into groups and attempt to record all of the gravestone information that is visible. You will need a smartphone or tablet. 
-  - Visual data recording using field collection forms: [Detailed instructions are behind this link](./assets/support/#).
-  - Photogrammetric data recording: We will try our hand at in-situ photogrammetric recording of the gravestones- [detailed instructions are behind this link](./assets/support/#) and note that you should download and install some of the suggested apps before hand. It is possible to develop photogrammetric models from images/video that you process later, so if you do not wish to use an app that is ok; photos and videos for later processing is viable (we have software in the XLab for doing this). You might also want to try recording the ice house.
-  - Simple mapping of the graveyard: [Detailed instructions are behind this link](./assets/support/#).
+Next week, half of you will meet me at the Billings Estate, half of you will go to the GIS Lab for some map making training.
 
-**Homework** By Friday at noon, have your research compendium for this week complete and in github. Remember, those discussions we have while we do the work? That stuff needs recording and thinking about too! 
+**Skill Building**
+- Build a recording sheet with Kobotoolbox
+- document-to-structured data workflow using camera photography and a python notebook deploying the PaddleOCR models. We will use a kind of vision model from a service called 'PaddleOCR' to turn scanned images of documents into data. (Ask yourself: who, or what, is PaddleOCR? What happens to the image data?). Take a copy of [this notebook](https://colab.research.google.com/github/shawngraham/hist3000-f26/blob/main/assets/notebooks/images_to_structured_text.ipynb) (ie, open that link in a new window, and then click File > Save a copy in Drive to create your own working version. Loading all of the pieces into memory will take several minutes. Just be patient. Work from top to bottom and read through carefully. 
 
-![ca-002104](../assets/images/billings-estate-ca-002104.png)
-
-_City of Ottawa Archives_ ca 002104
+**Homework** By Friday at noon, have your research compendium for this week complete and in github. Have an initial sense of what you want your PDAP to look like - a single paragraph is fine (this is mostly for your own record keeping). 

@@ -20,9 +20,10 @@ I'm going to speak for a bit, drawing everything we've done this module together
 	- we have tried to both find the patterns in data but also think about the ways we collect that data impact the kinds of patterns we might see
 	- how does computation enchant or alienate you from the past? Why, and in what ways?
 	- what excites you and/or fills you with dread about this work, and why?
+	- Tie your observations to broader trends in the discipline as evidenced in the readings.
 
 {: .note }
-Your consolidation should discuss at least one ‘fail’ and one ‘win’ that you have encountered. The best responses explicitly situate the discussion with reference to the readings, and to any conversations had with others in the class, or if appropriate to things read/done in _other_ classes. 
+Your consolidation should discuss these questions in the context of least one ‘fail’ and one ‘win’ that you have encountered. The best responses explicitly situate the discussion with reference to the readings, and to any conversations had with others in the class, or if appropriate to things read/done in _other_ classes. 
 
 ** Skill Building**
 

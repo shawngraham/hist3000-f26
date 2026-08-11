@@ -8,59 +8,93 @@ nav_order: 2
 The four points below address your analytical ability, your engagement with methodology, collaboration, argumentation, and professionalization.
 
 - Situate the emergence and evolution of digital archaeology within the historiography of archaeology more broadly (analytical ability, argumentation)
-- Implement and contribute to a digital archaeology gravestones’ and monuments survey (methodology, collaboration, professionalization)
+- Implement and contribute to a contemporary archaeology via digital archaeological methods (methodology, collaboration, professionalization)
 - Investigate data, artifacts, and primary sources, using the methods/techniques/perspectives of digital archaeology and digital humanities (analytical ability, methodology, collaboration, professionalization)
-- Collaboration: digital archaeologists collaborate to troubleshoot or develop technologies, and through open practices to data sharing and reuse, learn to build upon each others’ work in a collaborative fashion. (collaboration, professionalization, methodology)
+- Collaboration: digital archaeologists collaborate to troubleshoot or develop technologies, and through collaborative peer learning (modeling open practices to data sharing and reuse), learn to build upon each others’ work in a collaborative fashion. (collaboration, professionalization, methodology)
 
 # Assessment
 
-Assessment is based on a mixture of practice-based and reflection-based work. For the practice-based exercises, you are in control of how much you do (a perspective based in specification-based and contract-based grading pedagogical approaches). I do this because I want you to **explore** and experiment. To push yourself out of your comfort level. I do not want you trying to game the system to figure out the secret curriculum and what I'm 'really' after.
+You are assessed on three elements:
+
+|Element|Weight|
+|---|---|
+|Personal Digital Archaeology Project (PDAP)|30%|
+|Consolidation Document x2|20% each|
+|Final Exam|30%|
+
+## How this works
+
+I want you to **explore and experiment**. I want you to push yourself out of your comfort zone, and become comfortable with trying things out. The more weeks you engage in good-faith, the better you will do. The grading is designed to reward experimentation and reflection on what works and what doesn't. Good faith means: your own writing **warts-and-all**. Machine-generated text is not good faith. 
+
+Digital archaeology is a social practice. We work together, we help each other, and we learn to ask for help: no heroic lone scholars here! 
+
+### There are a lot of you
+
+I want to get to know you and your work and how you're approaching things. Sometimes people don't ask for help even when they need it. I _might_ ask people at random to chat with me about their weekly work. This is a random process and does not imply that I suspect anyone of misconduct. But you don't have to wait on me to call on you - you are always welcome to join me for coffee on Wednesday mornings at the Library Pagebreak to talk shop, shoot the breeze, complain about the Senators.
+
+## Personal Digital Archaeology Project
+
+In the same way that there are Roman archaeologists, Greek archaeologists, Palaeolithic archaeologists, Historic archaeologists, Maya archaeologists and so on, there are _contemporary_ archaeologists. These are folks who look at the materials surrounding us in the here and now, and deploy archaeological methods and theories for understanding what they're seeing. I'm one myself (given my work on the human remains trade, and the archaeology of the International Space Station, and of Mt. Everest). PDAP lets you practice the skills and ideas you learn about digital archaeology on something you've observed around Carleton.
+
+**Deadline**: End of November. You will submit a link to a **Github repository** containing your materials to me **via email** with the subject line 'PDAP - your_name - ready for viewing'. This repo may if you wish be made private.
+
+### What you do
+
+- 1. define a question of interest _to you_
+- 2. show how you have designed and built a data collection strategy/tool
+- 3. collect data and transform it
+- 4. build a one-page website to communicate your findings
+- 5. document 1,2,3,4 and your choices/issues encountered and associated implications in a **paradata.md** document.
+- 6. complete practice-based exercises to build your skills as you go
+
+#### Practice-based exercises
+
+These exercises are not about finding the 'right' answer. Your **process** matters more than the outcome. Code breaks, approaches go out of date, things change: this is expected. How you deal with that is what I'm trying to teach you. When something breaks, explain what you expected to happen and what actually happened, and try to understand that space between. Ask for help from me, your peers, or your TAs. You learn more from a broken pot that the one in the museum display case.
 
 {: .note } 
-I want you to explore, to experiment, and to try things out. The more things you try, in good-faith, the higher your grade is. Do more things = higher grade. The 'good-faith' bit is important. Using chatGPT to write something for you is not good-faith.  The last version of this class was ruined by people submitting computer-generated text as if it was their own. 
+If something doesn't come within 30 minutes it won't come in 3 hours. Ask for help. Show the problem to someone else. Close the computer, go touch grass. Come back fresh. If it still doesn't come together and you don't have anyone handy to help you out, document what you were doing, all of the steps, create screenshots, etc. Digital archaeology is a matter of practice and exposure. It might not click now, but it might click later. Process is what matters.
 
-## Practice-based exercises
+There are about **23 exercises**; that number might fluctuate as I see how the class progresses. Some are easy, some are harder. Pick what interests you and give it a whirl. **Everyone comes to digital work with different levels of exposure.** A good-faith effort from someone who already knows Python looks different than for someone who podcasts.  
 
-Practice-based - these are exercises with no right or wrong answer. That is to say, I'm more interested in your process and how you handle things going wrong, than in you saying 'yep everything was swell, the answer is 56 vernice-nera shards'. These exercises are opportunities for you to learn and practice a variety of digital skills. **Code always goes out of date and things will break**. This is to be expected. When it happens, do not panic. Just explain what you expected to happen and what actually happened. The exercises require good-faith effort and honest reckoning of what went wrong and what went right for us to get any value out of them. You learn more from a broken pot than one in pristine display in a museum. I'm not trying to catch you out and say 'ah ha! you have failed the exercise! D- for you!'. Everyone comes to digital/technical work with differing levels of previous exposure, comfort, knowledge. A good-faith effort for someone who knows a bit of python will look different from a good-faith effort for someone who is a wizard with video-editing. Both have something useful to contribute to digital archaeology. There are a variety of exercises meant to challenge you at whatever level you're currently at. I would strongly encourage you, if you found something to be easy or straightforward, to try another one, continuing until you get stumped. That feeling of being flummoxed is where the learning happens - and it's ok to be stumped. Archaeology is a social thing, so I fully expect you to work together, help each other out, or seek out help from other people: **no heroic lone scholars here!**
+### What you submit (weekly compendium, in Github)
 
-{: .note } 
-I *never* want to see or hear that you struggled mightily with some kind of tech issue on your own by yourself for hours on end. Life is too short for that. If something doesn't come within 30 minutes it won't come in 3 hours. Ask for help. Show the problem to someone else. Close the computer, go touch grass. Come back fresh. If it still doesn't come together and you don't have anyone handy to help you out, document what you were doing, all of the steps, create screenshots, etc. Digital archaeology is a matter of practice and exposure. It might not click now, but it might click later. Process is what matters.
+You will get your Github repository set up in week 1. You will add user 'shawngraham' as a collaborator (my avatar is a bearded Minion) as well as our TAs.
 
-Therefore, for practice-based exercises I require the following:
+Your practice-based compendium is a subfolder in your Github repository. Each week itt must contain:
 
-A weekly compendium kept in Github that **must** contain:
-- A log of what you tried and what happened (the literal process and outcomes). This can be bullet-point.
-- any files you create in the course of trying an exercise, kept in Github
-- an overview note connecting what you tried to the questions raised by what you've read, what I've said in class, and/or other exercises you've tried. If someone else helped you out, I expect to see that acknowledged here. This can be bullet-point.  
+- **Log.md**: A file documenting **which exercises you tried** and what happened (the literal process and outcomes). This can be bullet-point.
+- **Files**: any files you create in the course of trying an exercise
+- **Overview.md** an overview note connecting what you tried to the questions raised by what you've read, what I've said in class, and/or other exercises you've tried. Whose code or insights or help did you build on? The overview document can be bullet-point. 
 
-Those three elements together constitute a 'good faith' effort.
+Then, working towards your own personal research project:
 
-That's it. A 'compendium' can be a subfolder in your github class repository.
+- in your main PDAP repository, update with any relevant work completed that week. You might find it easiest to keep this as a kind of journal or diary; call it **PDAP-update.md**.
 
-|Number of good-faith efforts   | Grade for this component of the course   | Point Equivalent |
+The three elements of the practice based exercises plus your PDAP-update constitute a minimum good-faith effort for a given week. 
+
+|GOOD-FAITH WEEKS   | GRADE  | POINTS |
 |---|---|---|
-|18-20   | A  | 26 |
-|16-18   | A-  | 25 |
-|14-16   | B+  | 23 |
-|12-13| B | 22 |
-|11|C | 19|
-|10 - 1|D| 16|
+|12    | A  | 26 |
+|11    | A-  | 25 |
+|10    | B+  | 23 |
+|9 | B | 22 |
+|8 |C | 19|
+|7 |D| 16|
+|0-6|F|-|
 
-An 'A' here is in the midpoint of the range of 85-89% on the Carleton grading scale. The overall contribution of this section to the final grade is 30%. Thus .87x30 for instance would be 26/30. The leeway allows for special circumstances.
+Use the checklist document to track your progress.
 
-Use the checklist document to keep track. Note that there are 23 exercises on that list.
+## Consolidation documents (x2)
 
-## Consolidation
+At the end of each module, you will write a consolidation document during class time by hand, without devices (subject to accommodations). 
 
-At the end of the first module, and at the end of the second, you will write a consolidation document during class time. Because these are reflective pieces, these will be by-hand without computing assistance (subject to accommodations). 
+These documents are opportunities to look back over the previous weeks and work out what you've been learning, where the problems have been, and what this all means for you going forward; you draw on your own experiences/exercises, on the readings, and on the lectures; you make and explore a claim about how digital archaeology relates to the broader discipline. 
 
-These documents are opportunities to look back over the previous weeks and work out what you've been learning, where the problems have been, and what this all means for you going forward; you draw on your own experiences/exercises, on the readings, and on the lectures. See the relevant week for details on what the different consolidation documents ask for, and guidance for what constitutes a good consolidation. 
-
-(In years past, this was something that you could've done at home, like an essay assignment. But I received too many machine-generated pieces, so that privilege I no longer permit; similarly, this is why I want these by-hand without access to devices).
+See the relevant week for details on what the different consolidation documents ask for, and guidance for what constitutes a good consolidation. 
 
 ## Final
 
-The final exam takes the form of one last consolidation document, 3 hours.
+The final exam takes the form of one last consolidation document, 3 hours. It will in particular ask you about your PDAP.
 
 ## Grade Breakdown:
 
