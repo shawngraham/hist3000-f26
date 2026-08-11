@@ -44,7 +44,7 @@ Supplementary:
 Next week, half of you will meet me at the Billings Estate, half of you will go to the GIS Lab for some map making training.
 
 **Skill Building**
-- Build a recording sheet with Kobotoolbox
+- Build a [recording sheet with Kobotoolbox](https://gist.github.com/shawngraham/8472730c9722109da9d82534a3974e33)
 - document-to-structured data workflow using camera photography and a python notebook deploying the PaddleOCR models. We will use a kind of vision model from a service called 'PaddleOCR' to turn scanned images of documents into data. (Ask yourself: who, or what, is PaddleOCR? What happens to the image data?). Take a copy of [this notebook](https://colab.research.google.com/github/shawngraham/hist3000-f26/blob/main/assets/notebooks/images_to_structured_text.ipynb) (ie, open that link in a new window, and then click File > Save a copy in Drive to create your own working version. Loading all of the pieces into memory will take several minutes. Just be patient. Work from top to bottom and read through carefully. 
 
 **Homework** By Friday at noon, have your research compendium for this week complete and in github. Have an initial sense of what you want your PDAP to look like - a single paragraph is fine (this is mostly for your own record keeping). 
