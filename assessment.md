@@ -40,12 +40,12 @@ In the same way that there are Roman archaeologists, Greek archaeologists, Palae
 
 ### What you do
 
-- 1. define a question of interest _to you_
-- 2. show how you have designed and built a data collection strategy/tool
-- 3. collect data and transform it
-- 4. build a one-page website to communicate your findings
-- 5. document 1,2,3,4 and your choices/issues encountered and associated implications in a **paradata.md** document.
-- 6. complete practice-based exercises to build your skills as you go
+1. define a question of interest _to you_
+2. show how you have designed and built a data collection strategy/tool
+3. collect data and transform it
+4. build a one-page website to communicate your findings
+5. document 1,2,3,4 and your choices/issues encountered and associated implications in a **paradata.md** document.
+6. complete practice-based exercises to build your skills as you go
 
 #### Practice-based exercises
 
@@ -58,7 +58,9 @@ There are about **23 exercises**; that number might fluctuate as I see how the c
 
 ### What you submit (weekly compendium, in Github)
 
-You will get your Github repository set up in week 1. You will add user 'shawngraham' as a collaborator (my avatar is a bearded Minion) as well as our TAs.
+You will get your Github repository set up in week 1. You will add user 'shawngraham' as a collaborator (my avatar is a bearded Minion). Add our TAs.
+
+![me](../assets/images/me-github.png)
 
 Your practice-based compendium is a subfolder in your Github repository. Each week itt must contain:
 
@@ -82,13 +84,13 @@ The three elements of the practice based exercises plus your PDAP-update constit
 |7 |D| 16|
 |0-6|F|-|
 
-Use the checklist document to track your progress.
+Feel free to use the [checklist](weeks/Checklist.html) document to track your progress.
 
 ## Consolidation documents (x2)
 
 At the end of each module, you will write a consolidation document during class time by hand, without devices (subject to accommodations). 
 
-These documents are opportunities to look back over the previous weeks and work out what you've been learning, where the problems have been, and what this all means for you going forward; you draw on your own experiences/exercises, on the readings, and on the lectures; you make and explore a claim about how digital archaeology relates to the broader discipline. 
+These documents are opportunities to look back over the previous weeks and work out what you've been learning, where the problems have been, and what this all means for you going forward; you draw on your own experiences/exercises, on the readings, and on the lectures; you make and explore a claim (or claims) about how digital archaeology relates to the broader discipline. 
 
 See the relevant week for details on what the different consolidation documents ask for, and guidance for what constitutes a good consolidation. 
 

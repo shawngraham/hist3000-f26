@@ -13,19 +13,19 @@ You don't have to do all of these to 'perfection'. I know this is your first kic
 Wk 1
 - [ ] Personal Data Set
 
-Wk 2: 
+Wk 2:
+- [ ] Build a recording sheet with Kobotoolbox
+- [ ] Documents-to-structured-data with Python, using Google Colab
+
+Wk 3: 
 - [ ] Data Recording
 - [ ] Photogrammetry
 - [ ] Simple Mapping
 
-Wk 3: 
+Wk 4: 
 - [ ] GIS Workshop
 - [ ] DH Tutorials: Digital Literacy Intro
 - [ ] Spatial Data from ADS with Python, using Google Colab
-
-Wk 4: 
-- [ ] more 3d modeling (laser, structured light, photogrammetry)
-- [ ] documents-to-structured-data with Python, using Google Colab
 
 Wk 5: off the hook for today; consolidation 1 day
 
