@@ -17,7 +17,7 @@ In google colab, select 'open notebook', and select 'from github'.
 
 Put the URL in the search box, and hit enter.
 
-![open sesame](../assets/images/github-open.png)
+![open sesame](./assets/images/github-open.png)
 
 Make sure, once the notebook loads up, to save a copy to your own google drive or github repository before working through and making any changes.
 

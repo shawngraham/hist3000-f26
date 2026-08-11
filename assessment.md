@@ -60,7 +60,7 @@ There are about **23 exercises**; that number might fluctuate as I see how the c
 
 You will get your Github repository set up in week 1. You will add user 'shawngraham' as a collaborator (my avatar is a bearded Minion). Add our TAs.
 
-![me](../assets/images/me-github.png)
+![me](./assets/images/me-github.png)
 
 Your practice-based compendium is a subfolder in your Github repository. Each week itt must contain:
 
