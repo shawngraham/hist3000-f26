@@ -19,6 +19,8 @@ You all have different starting points; for you to understand your process and g
 
 This is a 0.5 credit in-person course @ Carleton University in the Fall 2026 semester, with Professor Shawn M. Graham.
 
+Students are not required to purchase textbooks or other learning materials for this course.
+
 ![3 Scanner](https://carleton.ca/xlab/wp-content/uploads/Screenshot-2026-03-05-at-11.44.41%E2%80%AFAM-1.png)
 
 _The THREE scanner from Matter and Form, one of the things we'll be trying out._

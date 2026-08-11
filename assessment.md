@@ -98,9 +98,4 @@ See the relevant week for details on what the different consolidation documents 
 
 The final exam takes the form of one last consolidation document, 3 hours. It will in particular ask you about your PDAP.
 
-## Grade Breakdown:
 
-Practice-based exercises: 30% 
-Consolidation 1: 20%
-Conslidation 2: 20%
-Final Exam: 30%
