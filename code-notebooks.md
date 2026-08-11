@@ -5,7 +5,7 @@ layout: default
 
 ## Pre-built code notebooks
 
-Some weeks will suggest you open a google colab notebook. You'll need to have a gmail/google drive account to save any copies.
+Some weeks I will suggest that you open a google colab notebook. You'll need to have a gmail/google drive account to save any copies.
 
 If I haven't provided a direct link, you can retrieve those from this location:
 
