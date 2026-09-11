@@ -25,6 +25,10 @@ Before you come to class: Colleen Morgan. 2022. [Current Digital Archaeology. An
 
 **Skill Building**:
 
+First, let's get set up with [github]((./assets/Github). 
+
+Now, let's build a dataset.
+
 This activity owes much to the pedagogical practice of [Brandon Walsh, Director of Student Programs at the Scholarslab](https://walshbr.com/about), a leading research institute in the digital humanities at the University of Virginia. He uses it at the start of one of his own classes (see also his post on ['personal data stories'](https://walshbr.com/blog/personal-data-story/)). What I like about this exercise, in the context of digital archaeology, is that it really gets you thinking about the connection between the subject - you - and the traces you leave behind. 
 
 - Identify your data
