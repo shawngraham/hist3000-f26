@@ -25,7 +25,7 @@ Before you come to class: Colleen Morgan. 2022. [Current Digital Archaeology. An
 
 **Skill Building**:
 
-First, let's get set up with [github]((./assets/Github). 
+First, let's get set up with [github](./assets/Github). 
 
 Now, let's build a dataset.
 
