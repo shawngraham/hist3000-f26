@@ -101,7 +101,7 @@ Once you've done that, you'll be at your Github user page:
 
 ### Setting up a 'repository' for your work
 
-A 'repository' is just a folder that you've shared on Github. There are two ways to do this; the easy way and the more complex way. Luck you, you have _already_ done the easy way - you selected the `initialize with a readme`, and it's already present in your browser!
+A 'repository' is just a folder that you've shared on Github. There are two ways to do this; the easy way and the more complex way. Lucky you, you have _already_ done the easy way - you selected the `initialize with a readme`, and it's already present in your browser!
 
 {: .note } 
 To create new repositories, just click on the `+` button on the top right of your Github page when you're logged in. If you do, remember to tick off the `initialize with a readme` box. Remember to make them private if you don't want the wider world seeing any of this.
@@ -139,10 +139,11 @@ The following two videos, one for PC, one for Mac, show you how to do this. For 
 
 
 PC:
-{{<youtube yvpn1lITcVU >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yvpn1lITcVU?si=U3BKH5JfJk4_sw1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Mac:
-{{<youtube 0R25NOsAHh4 >}}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0R25NOsAHh4?si=FVqlyjP6KhSpjPMB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Key commands for PC:
 + `dir` show the contents of the current directory
@@ -169,12 +170,10 @@ Ta da! You can now go to `github.com\<your-user-name>\your-repo` and you'll see 
 
 You can make a new text file by clicking on the 'create new file' button; **remember to always use .md as the file extension**. You can specify headers, links, images, bullets, blockquotes and so on by using [markdown conventions](https://guides.github.com/features/mastering-markdown/.)
 
-The two videos below might be a bit clearer on youtube itself.
-
-{{<youtube 2SeeKYWXbrE >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2SeeKYWXbrE?si=pVsUHfWDD_CLWpeB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Uploading a file into Github
 
 You can add new files from your computer by dragging and dropping them into the main repository. At the end of this video, I show you how to display the image in the text of the reflection.
 
-{{<youtube muKAh_j3Ogs >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/muKAh_j3Ogs?si=kQ78yqzTFO-wok9n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

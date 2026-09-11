@@ -62,7 +62,7 @@ You will get your Github repository set up in week 1. You will add user 'shawngr
 
 ![me](./assets/images/me-github.png)
 
-Your practice-based compendium is a subfolder in your Github repository. Each week itt must contain:
+Your practice-based compendium is a subfolder in your Github repository. Each week it must contain:
 
 - **Log.md**: A file documenting **which exercises you tried** and what happened (the literal process and outcomes). This can be bullet-point.
 - **Files**: any files you create in the course of trying an exercise
@@ -85,6 +85,10 @@ The three elements of the practice based exercises plus your PDAP-update constit
 |0-6|F|-|
 
 Feel free to use the [checklist](weeks/Checklist.html) document to track your progress.
+
+### How to let us know that your work is ready, ie, how to submit weekly work
+
+[Please fill in this google form letting us know you are ready for us to review your materials.](https://docs.google.com/forms/d/e/1FAIpQLSe2KpjkhuoapU7jrDR_ksJIu2ho9xaZw5lWNq3ylKCEcsBU0g/viewform?usp=header). 
 
 ## Consolidation documents (x2)
 

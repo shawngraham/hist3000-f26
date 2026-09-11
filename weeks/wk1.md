@@ -25,11 +25,13 @@ Before you come to class: Colleen Morgan. 2022. [Current Digital Archaeology. An
 
 **Skill Building**:
 
-First, let's get set up with [github](./assets/Github). 
+First, let's get set up with [github](../assets/Github). 
 
 Now, let's build a dataset.
 
-This activity owes much to the pedagogical practice of [Brandon Walsh, Director of Student Programs at the Scholarslab](https://walshbr.com/about), a leading research institute in the digital humanities at the University of Virginia. He uses it at the start of one of his own classes (see also his post on ['personal data stories'](https://walshbr.com/blog/personal-data-story/)). What I like about this exercise, in the context of digital archaeology, is that it really gets you thinking about the connection between the subject - you - and the traces you leave behind. 
+This activity owes much to the pedagogical practice of [Brandon Walsh, Director of Student Programs at the Scholarslab](https://walshbr.com/about), a leading research institute in the digital humanities at the University of Virginia. He uses it at the start of one of his own classes (see also his post on ['personal data stories'](https://walshbr.com/blog/personal-data-story/)). 
+
+You can pair up, you can divvy up, use whatever's handy and you feel comfortable with sharing, I like a noisy classroom. What I like about this exercise, in the context of digital archaeology, is that it really gets you thinking about the connection between the subject - you - and the traces you leave behind. 
 
 - Identify your data
   - Who are you?
@@ -44,7 +46,12 @@ This activity owes much to the pedagogical practice of [Brandon Walsh, Director 
 - Distribute
   - How will you share it back to me?
 
-(Brandon Waslh, [Data for the Rest of Us](https://walshbr.com/data-for-the-rest-of-us/week-1-intro/). You can pair up, you can divvy up, use whatever's handy and you feel comfortable with sharing, I like a noisy classroom.
+(Brandon Waslh, [Data for the Rest of Us](https://walshbr.com/data-for-the-rest-of-us/week-1-intro/)). 
 
 **Homework**:
-- by Friday noon, send your dataset to me. For Monday, be prepared to talk about what challenged you, and if you can, why it challenged you. What kind of meaningful differences would exist in your dataset if you were documenting physical objects?
+- by Friday noon, send your dataset to me (ie, upload it into your github repository, and use the form link on the assessment page to signal it is ready). For Monday, be prepared to talk about what challenged you, and if you can, why it challenged you. What kind of meaningful differences would exist in your dataset if you were documenting physical objects?
+
+
+### One last thought
+
+There is a lot of emphasis in this course on keeping track of your thinking, your process, and the ephemera of your digital process. **This is deliberate!** Future You depends on Past You to have kept good records, because it is extremely easy to get sidetracked, explore dead ends, or forget why/what decisions you made along the way. 

@@ -22,7 +22,7 @@ There are more than 60 of you, so we'll split the class. Group A goes to the Bil
 
 + Dennis, L. 2021. Getting It Right and Getting It Wrong in Digital Archaeological Ethics. In: Champion, E (ed.), Virtual Heritage. London: Ubiquity Press. DOI: [https://doi.org/10.5334/bck.j](https://doi.org/10.5334/bck.j)
 
-+ Graham's [cheat sheet on mortuary archaeology](./assets/support/#).
++ A quick note on ['why mortuary archaeology'](../assets/Mortuary).
 
 + Huggett, J. (2026) ‘Ethics and Digital Archaeology’, in E. Barker, O. Bobou, and R. Raja (eds) The Oxford Handbook of Digital Classical Studies. Oxford: Oxford University Press, pp. 136–148 [preprint version available behind this link](https://works.hcommons.org/records/b79ag-11n88).
 
@@ -34,9 +34,9 @@ There are more than 60 of you, so we'll split the class. Group A goes to the Bil
 - As you perform the work, record not just what you're doing, but also your thoughts and impressions on the work. Discuss with each other the readings as you do the work. This is a national historic site; to whom does this data belong? What choices are foisted upon you because of the technology you're working with? How might that impact the questions you could ask of this data?
 
 **Skill Building** We will break into groups and attempt to record all of the gravestone information that is visible. You will need a smartphone or tablet. 
-  - Visual data recording using field collection forms: [Detailed instructions are behind this link](./assets/support/#).
-  - Photogrammetric data recording: We will try our hand at in-situ photogrammetric recording of the gravestones- [detailed instructions are behind this link](./assets/support/#) and note that you should download and install some of the suggested apps before hand. It is possible to develop photogrammetric models from images/video that you process later, so if you do not wish to use an app that is ok; photos and videos for later processing is viable (we have software in the XLab for doing this). You might also want to try recording the ice house.
-  - Simple mapping of the graveyard: [Detailed instructions are behind this link](./assets/support/#).
+  - Visual data recording using field collection forms: [Details are behind this link](../assets/using_kobotoolbox).
+  - Photogrammetric data recording: We will try our hand at in-situ photogrammetric recording of the gravestones- [detailed instructions are behind this link](../assets/sfm-1) and note that you should download and install some of the suggested apps before hand. It is possible to develop photogrammetric models from images/video that you process later, so if you do not wish to use an app that is ok; photos and videos for later processing is viable (we have software in the XLab for doing this). You might also want to try recording the ice house.
+  - Simple mapping of the graveyard: [Detailed instructions are behind this link](../assets/quick_sketch_map).
 
 **Homework** By Friday at noon, have your research compendium for this week complete and in github. Remember, those discussions we have while we do the work? That stuff needs recording and thinking about too! 
 
