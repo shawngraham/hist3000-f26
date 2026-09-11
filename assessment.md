@@ -72,7 +72,7 @@ Then, working towards your own personal research project:
 
 - in your main PDAP repository, update with any relevant work completed that week. You might find it easiest to keep this as a kind of journal or diary; call it **PDAP-update.md**.
 
-The three elements of the practice based exercises plus your PDAP-update constitute a minimum good-faith effort for a given week. 
+The three elements of the practice based exercises plus your PDAP-update constitute a minimum good-faith effort for a given week (in week 5 and 9, the completion of the Consolidation documents). We count the number of good-faith weeks to date in Week 5, Week 9, and Week 12 (thus giving you a bit of lee-way on the timing). 
 
 |GOOD-FAITH WEEKS   | GRADE  | POINTS |
 |---|---|---|

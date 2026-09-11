@@ -16,7 +16,7 @@ There will be stats.
 **Theme** Statistics and Archaeologists and What Happens When the Past Can Be Computed 
 
 **Have Read for Today**
-+ Graham's [cheat sheet on archaeological databases](#)
++ Graham's [cheat sheet on archaeological databases](../assets/databases)
 + Kansa, E.C. 2026 Archaeology in the AI Era: Demystifying powerful and problematic systems shaping the future of the past, Internet Archaeology 71. https://doi.org/10.11141/ia.71.15
 + Perry, Sara and James Taylor. 2018. Theorising the Digital: A Call to Action for the Archaeological Community. In Oceans of Data: Proceedings of the 44th Conference on Computer Applications and Quantitative Methods in Archaeology, Mieko Matsumoto & Espen Uleberg, eds. Oxford: Archaeopress, pp. 11-22. [link](https://digiarch-2025.netlify.app/docs/support/Theorising_the_Digital_A_Call_to_Action.pdf)
 
@@ -35,4 +35,4 @@ And now that I've had you doing things in Python, I'm going to do a rug-pull and
 Finally, we'll take a look at a particular kind of 'structured' data that archaeologists use to work through the sequence of deposition at a site called a 'Harris Matrix'. Often archaeologists build one of these by hand, but I've built a little tool that can do this either from a csv of data or through a graphical interface. 
 
 **Homework**
-By Friday at noon, have your research compendium for this week complete and in github. Think about the space between the action of counting, and the reality of the things that have been counted. Who are you missing? What does this suggest about the differences between ’the past’ and ‘history’ or ‘archaeology’?
+By Friday at noon, have your work for this week complete and in github. Think about the space between the action of counting, and the reality of the things that have been counted. Who are you missing? What does this suggest about the differences between ’the past’ and ‘history’ or ‘archaeology’?

@@ -34,5 +34,5 @@ You're off the hook this week, although I encourage you to revisit activities: d
 
 **Homework**
 
-The evidence for all of your weekly activities for weeks 1 - 4 should be in your Github repository by Friday at noon. Anything for weeks 1 - 4 submitted after that point will not count towards completion of the 'activities' portion of the gradebook.
+The evidence for all of your weekly activities for weeks 1 - 4 should be in your Github repository by Friday at noon. Anything for weeks 1 - 4 submitted after that point will not meet the 'good faith' component.
 
