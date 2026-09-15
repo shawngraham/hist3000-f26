@@ -5,7 +5,7 @@ parent: Schedule
 nav_order: 9
 ---
 
-# Week 9 - Nov. 16
+# Week 9 - Nov. 23
 
 **Location** Our regular classroom
 

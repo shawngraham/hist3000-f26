@@ -5,7 +5,7 @@ parent: Schedule
 nav_order: 6
 ---
 
-# Week 6 - Oct. 26
+# Week 6 - Nov. 2
 
 ## Module 2 Considering & Critiquing Data
 

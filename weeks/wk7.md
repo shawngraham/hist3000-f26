@@ -5,7 +5,7 @@ parent: Schedule
 nav_order: 7
 ---
 
-# Week 7 - Nov. 2
+# Week 7 - Nov. 9
 
 **Location** Our Normal Classroom
 
