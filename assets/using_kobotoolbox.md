@@ -4,6 +4,10 @@ title: Using_Kobotoolbox
 nav_exclude: true
 ---
 
+## What is Kobotoolbox?
+
+Check out this short [video explainer](https://www.youtube.com/watch?v=4PNtT51h3CQ). Kobotoolbox is a tool developed by a nonprofit aimed at making tools that permit rapid data collection in crisis situations. A data collection form created with Kobotool box works offline and only uploads the data you've collected once your device is in wifi or cell coverage. I have already created a form for you that uses the DEBS mortuary archaeology data scheme; you can access it here: [https://ee.kobotoolbox.org/x/uIGvnNmd](https://ee.kobotoolbox.org/x/uIGvnNmd). Load that form *before* you go into the field, and leave the tab open on your device. If a recording form requires or can collect geolocation data, it will ask for permission from you to use your device's geolocation.
+
 ## Recording Gravestones with Kobotoolbox
 
 You will need a smartphone or table while on site.
