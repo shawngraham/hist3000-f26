@@ -22,7 +22,7 @@ Incidentally, once you've got the form deployed, and filled it a couple of times
 
 ### Modify the Form
 
-1. You will need my [graveyard recording form template](https://digiarch-2025.netlify.app/docs/support/graveyard-template.xlsx). It's an excel spreadsheet. Take a look at it in excel if you want, but for the time being don't change anything there or else it might not import correctly.
+1. You will need my [graveyard recording form template](graveyard-template.xlsx). It's an excel spreadsheet. Take a look at it in excel if you want, but for the time being don't change anything there or else it might not import correctly.
 
 2. Go to [https://www.kobotoolbox.org](https://www.kobotoolbox.org) and sign up for an 'everyone else' account:
 
