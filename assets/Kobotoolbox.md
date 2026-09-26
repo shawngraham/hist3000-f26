@@ -26,34 +26,34 @@ Incidentally, once you've got the form deployed, and filled it a couple of times
 
 2. Go to [https://www.kobotoolbox.org](https://www.kobotoolbox.org) and sign up for an 'everyone else' account:
 
-![sign up for kobotoolbox](https://digiarch-2025.netlify.app/docs/support/images/kobotoolbox/kbtb-1.png)
+![sign up for kobotoolbox](images/kbtb-1.png)
 
 3. Import the template by dragging and dropping the xlsx file:
 
-![create new project](https://digiarch-2025.netlify.app/docs/support/images/kobotoolbox/kbtb-2.png)
+![create new project](images/kbtb-2.png)
 
 4. Fill in some of the metadata:
 
-![metadata](https://digiarch-2025.netlify.app/docs/support/images/kobotoolbox/kbtb-3.png)
+![metadata](images/kbtb-3.png)
 
 5. Start editing/modifying the form:
 
-![hit edit](https://digiarch-2025.netlify.app/docs/support/images/kobotoolbox/kbtb-4.png)
+![hit edit](images/kbtb-4.png)
 
-![the form editor](https://digiarch-2025.netlify.app/docs/support/images/kobotoolbox/kbtb-5.png)
+![the form editor](images/kbtb-5.png)
 
 6. Adding a new question:
 
-![new question](https://digiarch-2025.netlify.app/docs/support/images/kobotoolbox/kbtb-6.png)
-![settings](https://digiarch-2025.netlify.app/docs/support/images/kobotoolbox/kbtb-7.png)
+![new question](images/kbtb-6.png)
+![settings](images/kbtb-7.png)
 
 7. When you're done, hit 'save' and then go back to the project list view and hit deploy:
 
-![list view](https://digiarch-2025.netlify.app/docs/support/images/kobotoolbox/kbtb-8.png)
+![list view](images/kbtb-8.png)
 
 8. Now you can share it with me, and the world:
 
-![share](https://digiarch-2025.netlify.app/docs/support/images/kobotoolbox/kbtb-9.png)
+![share](images/kbtb-9.png)
 
 9. Write things up, deposit in your repo.
 
