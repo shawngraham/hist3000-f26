@@ -20,7 +20,7 @@ In a way, the scheme that we are going to use (adapted from ['Discovering Englan
 
 The study of graveyards is one point where history and archaeology intersect, as both disciplines have their own bodies of literature connected with exploring how humans have dealt with their dead. I remember being taught as an undergrad the concept of [seriation](https://en.wikipedia.org/wiki/Seriation_(archaeology)) with reference to motifs on New England headstones (['Death's Head, Cherub, Urn and Willow' by Deetz and Dethlefsen](http://www.histarch.illinois.edu/plymouth/deathshead.html).)
 
-![](https://digiarch-2025.netlify.app//docs/support/images/graveyards/deathsheadfg1.jpg)
+![](images/deathsheadfg1.jpg)
 
 _The count of headstones with different motifs, when organized according to date of death, demonstrates how fashions evolve even within gravestone motifs. Which also means you can use a motif to suggest a likely date for a stone..._
 
