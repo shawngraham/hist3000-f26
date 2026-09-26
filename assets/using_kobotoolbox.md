@@ -16,7 +16,7 @@ If you don't have a device that you can take into the field, you can [print out 
 
 **Before you go out to the graveyard** The digital forms can be used for off-line data recording. Open the link on a smartphone or tablet when you are connected to wifi or data. On the top right of most mobile browsers, there's a button you can click for options; one of these will be 'add to home screen'
 
-![](https://digiarch-2025.netlify.app/docs/support/images/graveyards/save-home.png)
+![](images/graveyards/save-home.png)
 
 The forms are smart enough to only upload the data when you have a wifi connection, so you can use the forms to record data even if mobile data is expensive or unavailable.
 
@@ -26,7 +26,7 @@ Step 2. We’ll use this scheme - [http://debs.ac.uk/files/CodeSheets.pdf](http:
 
 The numbering system builds up to describe a stone, monument, or tomb. For instance, in the illustration below, `1126`, each digit is significant. The first `1` indicates `chest and table tombs`, the next two digits differentiate between `chest tomb with plain sides` (`11`) and `chest tomb with rectangular panelled sides`, `12`, and then the final digit describes the decoration on the top, `6`, what is called a `double bale`. Headstones begin with `4` and the combination of digits can be used to describe quite complex shapes and motifs.  
 
-![](digiarch-2025.netlify.app/docs/support/images/graveyards/debs-code-sheet-ex.png)
+![](/images/debs-code-sheet-ex.png)
 
 Step 3. Then, record the stone & the inscription with this: [https://ee.kobotoolbox.org/x/uIGvnNmd](https://ee.kobotoolbox.org/x/uIGvnNmd). It works best with Chrome. Deciding precisely which numbers best describe what you are observing will be a challenge. As you work, make a note of problems you encounter with the scheme - what assumptions are literally encoded that do not seem to reflect what you are seeing? Are there shapes that just don't seem to fit?
 
