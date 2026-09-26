@@ -26,7 +26,7 @@ Step 2. We’ll use this scheme - [http://debs.ac.uk/files/CodeSheets.pdf](http:
 
 The numbering system builds up to describe a stone, monument, or tomb. For instance, in the illustration below, `1126`, each digit is significant. The first `1` indicates `chest and table tombs`, the next two digits differentiate between `chest tomb with plain sides` (`11`) and `chest tomb with rectangular panelled sides`, `12`, and then the final digit describes the decoration on the top, `6`, what is called a `double bale`. Headstones begin with `4` and the combination of digits can be used to describe quite complex shapes and motifs.  
 
-![](https://digiarch-2025.netlify.app/docs/support/images/graveyards/debs-code-sheet-ex.png)
+![](images/debs-code-sheet-ex.png)
 
 Step 3. Then, record the stone & the inscription with this: [https://ee.kobotoolbox.org/x/uIGvnNmd](https://ee.kobotoolbox.org/x/uIGvnNmd). It works best with Chrome. Deciding precisely which numbers best describe what you are observing will be a challenge. As you work, make a note of problems you encounter with the scheme - what assumptions are literally encoded that do not seem to reflect what you are seeing? Are there shapes that just don't seem to fit?
 
