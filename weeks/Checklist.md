@@ -20,11 +20,11 @@ Wk 2:
 Wk 3: 
 - [ ] Data Recording
 - [ ] Photogrammetry
-- [ ] Simple Mapping
+- [ ] Simple Mapping (compass & bearing)
 
 Wk 4: 
 - [ ] GIS Workshop
-- [ ] DH Tutorials: Digital Literacy Intro
+- [ ] DELETED: DH Tutorials: Digital Literacy Intro (SG: I removed this because it was proving problematic, from a technical perspective).
 - [ ] Spatial Data from ADS with Python, using Google Colab
 
 Wk 5: off the hook for today; consolidation 1 day
