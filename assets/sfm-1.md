@@ -18,16 +18,11 @@ The general process runs like this:
 + secondary product generation
 + analysis / presentation
 
-**We're not making models _just yet_**. Rather, I want you to take both video and photos of a gravestone that interests you.
-
 For the video, walk around the gravestone/object such that you capture a view of it from its bottom third, its middle third, and its top third (so go around it three times). 
 
 For the photos, you want to make sure you have a significant amount of overlap between photos; 24 or so will do the trick. Again, make sure that you get coverage from the bottom, middle, and top as best you can. Notice how taking multiple photographs, from multiple angles, really forces you to *look* at the object... what do you notice?
 
-We'll come back to these photos later in the term (in week 10) to try to make a model from them; I will walk you through a notebook that shows how the process all works.  
-
-{: .note } 
-If you're interested, you can sign up for a free account with [Polycam.com](https://poly.cam/) and load your photos / video into their service and get very good results. Be careful and avoid signing up for any of their paid services, at least for the purposes of this course; their pop-ups encouraging you to sign up for pro accounts can be closed. 
+Then, sign up for a free account with [Polycam.com](https://poly.cam/) and load your photos / video into their service and get very good results. **Be careful and avoid signing up for any of their paid services**, at least for the purposes of this course; their pop-ups encouraging you to sign up for pro accounts can be closed. 
 
 ## Handheld 3d Scanner
 
