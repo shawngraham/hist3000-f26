@@ -28,6 +28,9 @@ If you haven't read something from earlier in the course, **now would be a reall
 {: .note }
 Your consolidation should discuss these questions in the context of at least one ‘fail’ and one ‘win’ that you have encountered. Explicitly situate your discussion with reference to the readings, and to any conversations you've had with others in the class, or if appropriate to things you've read/done in _other_ classes. 
 
+[supporting slides for today's agenda](
+https://tinier.tinylittleoffice.com/gxrckr6#eu5bPDg15a_X3LOEMU8wHVD8C8DCC7JJRX7e8hvpKZA)
+
 **Skill Building**
 
 You're off the hook this week, although I encourage you to revisit activities: digital archaeology is all about practice.
