@@ -30,7 +30,7 @@ Wk 4:
 Wk 5: off the hook for today; consolidation 1 day
 
 Wk 6: 
-- [ ] DH Tutorials: Working With Structured Data
+- [ ] DELETED: DH Tutorials: Working With Structured Data
 - [ ] some basic archaeostats in R, using Google Colab
 - [ ] build a Harris matrix
 
