@@ -25,9 +25,9 @@ A discussion of how a networked perspective on archaeological data opens up new 
 
 
 **Skill Building**
-- We'll build a network of a small farming community from a small rural cemetery
-- We'll load a networked representation of the Roman Empire into a Google Colab notebook and calculate some network perspectives on it.
-- We'll try to build an agent based model of information (or disease?) diffusion on top of the Roman empire's urban topology
+- We'll build a network of a small farming community from a small rural cemetery (see data at end of this page; try using the [network navigator tool](https://networknavigator.jrladd.com/) with the data first.)
+- We'll load a networked representation of the Roman Empire into a Google Colab notebook and calculate some network perspectives on it. (Use this [colab notebook](https://colab.research.google.com/github/shawngraham/hist3000-f26/blob/main/assets/notebooks/roman-networks.ipynb))
+- **Advanced** If you're feeling up to it, try to explore/build an agent based model of information (or disease?) diffusion on top of the Roman empire's urban topology? The first thing is to play with the ['virus on a network'](https://netlogoweb.org/launch#https://netlogoweb.org/assets/modelslib/Sample%20Models/Networks/Virus%20on%20a%20Network.nlogo) model and simply _reimagine_ what the agents and mechanism _represents_. The [Netlogo environment](https://www.netlogo.org/downloads/) is quite powerful and you can use it to write interesting models from scratch; you could give the Romanowska et al tutorial a try on that. Writing an ABM in Python is doable, but not nearly as 'clear cut' as writing it in Netlogo - in this [colab notebook](https://github.com/shawngraham/hist3000-f26/blob/main/assets/notebooks/abm_on_roman_network.ipynb) I show one way of loading the Roman ORBIS data into an agent model and simulate some diffusion mechanisms on it. Have a play!
 
 **Homework**
 By Friday at noon, have your research compendium for this week complete and in github. You might want to consider the perils of looking at the world through a network lens - and the potentials. Have you encountered this kind of approach in your history classes? What would your other professors make of all this?
@@ -42,7 +42,7 @@ The [ORBIS geospatial network model of the Roman world](https://orbis.stanford.e
 
 ## Historical Cemetery Network Dataset
 
-I'll give you some information I cooked up regarding a small family cemetery. Your goal is to create a new python or R notebook in Google Colab where you load the data in and do some analyzes.
+I'll give you some information I cooked up regarding a small family cemetery. Your goal is to first [use the network navigator tool to explore the data](https://networknavigator.jrladd.com/) and then second, adapt and reuse the Python code from the Orbis notebook in Google Colab where you load the data in and do some analyzes.
 
 1. take this data, and make a new text file (remember, **you never use Word for something like this**. Use a text editor (and if you don't recall what I mean by that, just ask). Represent the data provided to you below as an 'edgelist' where you list out the relationships. You need to have at least a 'source' and 'target' column, eg:
 
