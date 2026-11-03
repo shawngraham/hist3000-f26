@@ -17,7 +17,7 @@ You gather the data, and make a 2 x 2 'contingency table', where you count your 
 
 To look at this, you can't really tell if there is any association at play. So we will work out what a random distribution would look like, and by comparing what we observe with what we expect (what things would look like if there were no associations) we can figure out whether or not there's an association, how strong that association is, and what exactly is associated.
 
-> A word about Spreadsheets and how they work
+### A word about Spreadsheets and how they work
 
 We're going to use Excel. A spreadsheet is a grid of columns and rows. Each column is named - A, B, C... all the way up to ZZ; and each row is numbered, 1, 2, 3, all the way down to something like 66540. That's a lot of data!. Each cell can hold a number, and since each cell has an address - A1 is in the top left corner, B1 is right beside it - we can write a formula in another cell that says 'take the value in A1 and multiply it by the value in B1'. When a formula works, you only see the value that it calculates; you have to move the cursor onto the cell and then you'll see the formula itself up in the editor bar above the spreadsheet. Every formula in Excel starts with a = sign: `=a1*b2` is the formula for multiplying whatever's in A1 against whatever's in B2. Certain common calculations or 'functions' can be used in a formula. `=AVERAGE(A1:A10)` will add up every number in A1, A2, A3... all the way to A10, and divide by the count of numbers added together to give an average. The : sign between the two cell addresses means 'range', ie, the range of values from A1 to A10. Other common functions are `MODE` and `MEDIAN` and `SUM` and `SQRT`.
 
