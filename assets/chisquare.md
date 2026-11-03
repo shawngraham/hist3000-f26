@@ -117,7 +117,7 @@ In Excel, instead of looking up a table to read the critical value, you can run 
 =CHISQ.DIST.RT(chi_square_value, df)   
 ```
 
-ie, you replace 'chi_square_value' with the cell address of your statistic, and replace 'df' with your actual degrees of freedom. If you've been following my guide, your chi square value is in cell F14, and df is 1, thus: ```=CHISQ.DIST.RT(f14, 1)```. This returns the **probability**. If that number is **less than** 0.05 you reject the null hypothesis and conclude that the observed counts differ significantly from what would be expected by chance. 
+ie, you replace 'chi_square_value' with the cell address of your statistic, and replace 'df' with your actual degrees of freedom. If you've been following my guide, your chi square value is in cell F14, and df is 1, thus: ```=CHISQ.DIST.RT(f14, 1)```. This returns the **p value**. If that number is **less than** 0.05 you reject the null hypothesis and conclude that the observed counts differ significantly from what would be expected by chance. 
 
 ### Why is df = 1 for a 2 × 2 table?
 
