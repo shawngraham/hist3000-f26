@@ -35,6 +35,7 @@ The value that displays should be '360', right? **Now what should go in cell C4?
 **Step 4** The final step in setting up our contingency table is to add up all of our observations so we know the total count. Figure out the range for which you want to add every value together, and use that with the **sum** command. Put that formula in cell **d4**
 
 You should see something like this:
+
 ||A|B|C|D|
 |--|--|--|--|--|
 |1|observed|riverside|non-riverside|
@@ -46,11 +47,13 @@ You should see something like this:
 
 To figure out the expected values for each cell in the contingency talbe (eg, how many sites, if everything were random, would be riverside AND have bronze axe heads) we calculate FOR EACH CELL 'row total x column total / grand total'.
 
-So for riverside|bronze, that would be =310 * 360 / 640
-for riverside|non-bronze, that would be =**330** * 360 / 640 (see that we used the different row total there?)
+So for riverside,bronze, that would be `=310 * 360 / 640`
 
-For non-riverside|bronze, that would be =310 * 280 / 640
-For non-riverside|non-bronze, that would be =33 * 280 / 640.
+For riverside, non-bronze, that would be `=330 * 360 / 640` (see that we used the different row total there?)
+
+For non-riverside,bronze, that would be `=310 * 280 / 640`
+
+For non-riverside,non-bronze, that would be `=33 * 280 / 640`.
 
 You can write that as a formula in each cell; just remember to put the = sign in front (eg: ```=310*360/640)```
 
