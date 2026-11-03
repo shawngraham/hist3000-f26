@@ -19,7 +19,7 @@ To look at this, you can't really tell if there is any association at play. So w
 
 > A word about Spreadsheets and how they work
 
-We're going to use Excel. A spreadsheet is a grid of columns and rows. Each column is named - A, B, C... all the way up to ZZ; and each row is numbered, 1, 2, 3, all the way down to something like 66540. That's a lot of data!. Each cell can hold a number, and since each cell has an address - A1 is in the top left corner, B1 is right beside it - we can write a formula in another cell that says 'take the value in A1 and multiply it by the value in B1'. When a formula works, you only see the value that it calculates; you have to move the cursor onto the cell and then you'll see the formula itself up in the editor bar above the spreadsheet. Every formula in Excel starts with a = sign: =a1*b2 is the formula for multiplying whatever's in A1 against whatever's in B2. Certain common calculations or 'functions' can be used in a formula. =AVERAGE(A1:A10) will add up every number in A1, A2, A3... all the way to A10, and divide by the count of numbers added together to give an average. The : sign between the two cell addresses means 'range', ie, the range of values from A1 to A10. Other common functions are MODE and MEDIAN and SUM and SQRT.
+We're going to use Excel. A spreadsheet is a grid of columns and rows. Each column is named - A, B, C... all the way up to ZZ; and each row is numbered, 1, 2, 3, all the way down to something like 66540. That's a lot of data!. Each cell can hold a number, and since each cell has an address - A1 is in the top left corner, B1 is right beside it - we can write a formula in another cell that says 'take the value in A1 and multiply it by the value in B1'. When a formula works, you only see the value that it calculates; you have to move the cursor onto the cell and then you'll see the formula itself up in the editor bar above the spreadsheet. Every formula in Excel starts with a = sign: `=a1*b2` is the formula for multiplying whatever's in A1 against whatever's in B2. Certain common calculations or 'functions' can be used in a formula. `=AVERAGE(A1:A10)` will add up every number in A1, A2, A3... all the way to A10, and divide by the count of numbers added together to give an average. The : sign between the two cell addresses means 'range', ie, the range of values from A1 to A10. Other common functions are `MODE` and `MEDIAN` and `SUM` and `SQRT`.
 
 Google sheets and other software (Apple Numbers, LibreOffic Calc etc) work the same way, even if the exact function name can sometimes be different.
 
@@ -52,7 +52,7 @@ for riverside|non-bronze, that would be =**330** * 360 / 640 (see that we used t
 For non-riverside|bronze, that would be =310 * 280 / 640
 For non-riverside|non-bronze, that would be =33 * 280 / 640.
 
-You can write that as a formula in each cell; just remember to put the = sign in front (eg: =310*360/640)
+You can write that as a formula in each cell; just remember to put the = sign in front (eg: ```=310*360/640)```
 
 Alternatively, since you know the cell addresses for your original data, you could do this; note that I create our 'expected' table right underneath the 'observed' one:
 
@@ -100,19 +100,23 @@ These benchmark numbers are called **critical values**.
 
 Because more complex tables have more cells (and therefore naturally accumulate larger sum totals), the threshold required to prove a pattern is "real" gets higher as the degrees of freedom increase. 
 
-For our **2 × 2 table ($\text{df} = 1$)**, statisticians calculated that under the standard 95% confidence level ($\alpha = 0.05$):
+For our **2 × 2 table (df=1))**, statisticians calculated that under the standard 95% confidence level (alpha = 0.05):
 
 * **The threshold is 3.84.**
-* If your calculated $\chi^2$ is **less than 3.84**, the difference could easily be random noise—you **fail to reject the null hypothesis**.
-* If your calculated $\chi^2$ is **greater than 3.84**, there is less than a 5% chance this happened by accident—you **reject the null hypothesis**.
+* If your calculated chi square is **less than 3.84**, the difference could easily be random noise—you **fail to reject the null hypothesis**.
+* If your calculated chi square is **greater than 3.84**, there is less than a 5% chance this happened by accident—you **reject the null hypothesis**.
 
 The 'null hypothesis' is: "there is no association between bronze axes and location". So... what's our chi-square statistic, and is it greater than 3.84? 
 
-> In Excel, instead of looking up a table to read the critical value, you can run this formula: 
-> =CHISQ.DIST.RT(chi_square_value, df)   
-> ie, you replace 'chi_square_value' with the cell address of your statistic, and replace 'df' with your actual degrees of freedom. If you've been following my guide, your chi square value is in cell F14, and df is 1, thus: =CHISQ.DIST.RT(f14, 1). This returns the **probability**. If that number is **less than** 0.05 you reject the null hypothesis and conclude that the observed counts differ significantly from what would be expected by chance. 
+In Excel, instead of looking up a table to read the critical value, you can run this formula: 
 
-### Why is df = 1 for a 2 × 2 table?*
+```excel
+=CHISQ.DIST.RT(chi_square_value, df)   
+```
+
+ie, you replace 'chi_square_value' with the cell address of your statistic, and replace 'df' with your actual degrees of freedom. If you've been following my guide, your chi square value is in cell F14, and df is 1, thus: ```=CHISQ.DIST.RT(f14, 1)```. This returns the **probability**. If that number is **less than** 0.05 you reject the null hypothesis and conclude that the observed counts differ significantly from what would be expected by chance. 
+
+### Why is df = 1 for a 2 × 2 table?
 
 Think of it like a Sudoku puzzle. If you fix the row totals and column totals of your 2 × 2 table, **you only have the freedom to choose a number for a single cell**. Once you write down that one number, the other three cells are mathematically locked in place to satisfy the totals. Hence, you only have **1 degree of freedom**.
 
@@ -124,18 +128,18 @@ A common mistake is thinking a massive Chi-Square number means a massive real-wo
 
 Because Chi-Square multiplies everything by sample size ($N$), **if you simply collected 10 times more data, your Chi-Square statistic will become 10 times bigger**, even if the underlying pattern hasn’t changed by a single percent!
 
-* **Chi-Square ($\chi^2$)** only answers: *"Are we sure this isn't random luck?"*
-* **Phi ($\phi$) and Cramer's $V$** answer: *"Regardless of sample size, how strong is the actual relationship?"*
+* **Chi-Square** only answers: *"Are we sure this isn't random luck?"*
+* **Phi and Cramer's V** answer: *"Regardless of sample size, how strong is the actual relationship?"*
 
 ---
 
-### 1. The Phi Coefficient ($\phi$): For 2 × 2 Tables
+### 1. The Phi Coefficient: For 2 × 2 Tables
 
-Statisticians realized they could strip the sample size ($N$) back out of the Chi-Square statistic to measure the pure strength of the connection. This is called 'phi'.
+Statisticians realized they could strip the sample size (N) back out of the Chi-Square statistic to measure the pure strength of the connection. This is called 'phi'.
 
-* **It works just like a correlation coefficient ($r$):**
-  * It scales between **$0$** (no relationship whatsoever) and **$1$** (a perfect, 100% predictive relationship).
-  * If calculated directly from the raw counts, it can even have a **$+$ or $-$ sign**, telling you which direction the relationship points.
+  * It works just like a correlation coefficient (r):
+  * It scales between **$0$** (no relationship whatsoever) and **1** (a perfect, 100% predictive relationship).
+  * If calculated directly from the raw counts, it can even have a **+ or - sign**, telling you which direction the relationship points.
 
 
 ### How to Calculate 
@@ -147,16 +151,19 @@ Remember that our contingency table is in cells **`B2:C3`**:
 | **Row 1** | **B2** | **C2** |
 | **Row 2** | **B3** | **C3** |
 
-#### Option A: If you already have your $\chi^2$ value (e.g., in cell `D5`)
-To get **Cramer’s $V$** (Strength: $0$ to $1$):
+#### Option A: If you already have your chi square value (e.g., in cell `D5`)
+To get **Cramer’s V** (Strength: 0 to 1):
+
 ```excel
 =SQRT(f14 / SUM(B2:C3))
 ```
+
 (Notice that we're following the order of operations. We sum first, and then divide chi square by that value)
 
 
-#### Option B: Calculate Signed Phi directly from the table (Direction + Strength: $-1$ to $+1$)
-To get both the direction and the strength without even needing $\chi^2$:
+#### Option B: Calculate Signed Phi directly from the table (Direction + Strength: -1 to +1)
+To get both the direction and the strength without even needing chi square:
+
 ```excel
 =(B2*C3 - C2*B3) / SQRT((B2+C2) * (B3+C3) * (B2+B3) * (C2+C3))
 ```
@@ -165,13 +172,13 @@ If Phi is **postive** it means that the relationship implied by reading the orig
 
 If Phi is **negative** it means that the relationship implied by reading the original contingency table diagonal from top right to bottom left is the key relationship: bronze axeheads are associated with non-riverside locations, and non-bronze with riverside.
 
-Unlike $p$-values (which we saw back when we were trying to decide whether or not the chi square statistic was meaning), which are either significant or not, Cramer’s $V$ and $|\phi|$ are interpreted by benchmarks:
+Unlike p-values (which we saw back when we were trying to decide whether or not the chi square statistic was meaning), which are either significant or not, Cramer’s V and phi are interpreted by benchmarks:
 
-| Value of $V$ or $|\phi|$ | Real-World Meaning |
+| Value of V or phi | Real-World Meaning |
 | :---: | :--- |
-| **$\approx 0.10$** | **Weak:** A slight tendency, but lots of noise. |
-| **$\approx 0.30$** | **Moderate:** A clear, noticeable relationship. |
-| **$\ge 0.50$** | **Strong:** A massive, defining pattern. |
+| **approx 0.10$** | **Weak:** A slight tendency, but lots of noise. |
+| **approx 0.30$** | **Moderate:** A clear, noticeable relationship. |
+| **greater than or equal to 0.50$** | **Strong:** A massive, defining pattern. |
 
 So.... what did you find? Can you write it up in a paragraph or two?
 
